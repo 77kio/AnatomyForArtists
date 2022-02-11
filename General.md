@@ -73,8 +73,12 @@ External Oblique
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
 <img src="https://i.imgur.com/XDR0oVa.jpg" width="300">
+<img src="https://i.imgur.com/sihTo2r.jpg" width="500">
+<img src="https://i.imgur.com/m8LZRnA.jpg" width="500">
 
-The Cervical area is a diamond shaped part of the trapezius and the spine bone can be seen here
+
+
+The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bone is especially pronounced here
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -92,12 +96,16 @@ The Cervical area is a diamond shaped part of the trapezius and the spine bone c
 <img src="https://i.imgur.com/ACrOdqt.png" width="328">
 <img src="https://i.imgur.com/kCY791a.png" width="300">
 
-Thoracolumbar fascia is a part of the latisimus
+The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/ddSMY3t.jpg" width="300">
 
+The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
-# Sacral Area
+<img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
+
+
+
 
 # ARM
 
