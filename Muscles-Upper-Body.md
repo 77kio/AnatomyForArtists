@@ -1,4 +1,5 @@
-# PECTORALIS MAYOR (Pectorals)
+# UPPER BODY
+## PECTORALIS MAYOR (Pectorals)
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 
@@ -17,7 +18,7 @@
 |Arm extension
 
 
-# SERRATUS ANTERIOR
+## SERRATUS ANTERIOR
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
@@ -34,12 +35,12 @@
 |:-:
 |Scapula(shoulder) movement/ rotation
 
-# RECTUS ABDOMINUS (Abs)
+## RECTUS ABDOMINUS (Abs)
 
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 <img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
-# OBLIQUES
+## OBLIQUES
 Internal Oblique
 
 <img src="https://i.imgur.com/omZfDtQ.png" width="500">
@@ -48,7 +49,7 @@ External Oblique
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
-# TRAPEZIUS
+## TRAPEZIUS
 <img src="https://i.imgur.com/hBnYIUk.png" width="200">
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
@@ -76,7 +77,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Stand straight
 |Shoulder movement/ scalpula control
 
-# LATISIMUS DORSI
+## LATISIMUS DORSI
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
@@ -90,9 +91,9 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
-# INFRASPINATUS, TERES MINOR, TERES MAYOR
+## INFRASPINATUS, TERES MINOR, TERES MAYOR
 
-# General
+## General
 <details>
 <summary>General Torso Muscle Anatomy (relaxed)</summary>
 
@@ -128,5 +129,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 # ARM
+
 # LEG
+
 # HEAD
