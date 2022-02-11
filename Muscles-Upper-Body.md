@@ -34,12 +34,12 @@
 |:-:
 |Scapula(shoulder) movement/ rotation
 
-## RECTUS ABDOMINUS (Abs)
+## Rectus Abdominus (Abs)
 
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 <img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
-## OBLIQUES
+## Obliques
 Internal Oblique
 
 <img src="https://i.imgur.com/omZfDtQ.png" width="500">
@@ -48,7 +48,7 @@ External Oblique
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
-## TRAPEZIUS
+## Trapezius
 <img src="https://i.imgur.com/hBnYIUk.png" width="200">
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
@@ -76,7 +76,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Stand straight
 |Shoulder movement/ scalpula control
 
-## LATISIMUS DORSI
+## Latisimus Dorsi
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
