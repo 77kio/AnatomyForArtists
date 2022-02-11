@@ -1,5 +1,3 @@
-# TORSO
-
 # PECTORALIS MAYOR (Pectorals)
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
@@ -92,6 +90,8 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
+# INFRASPINATUS, TERES MINOR, TERES MAYOR
+
 # General
 <details>
 <summary>General Torso Muscle Anatomy (relaxed)</summary>
@@ -111,7 +111,6 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/aHqumPa.png" width="300">
 <img src="https://i.imgur.com/wsFmwb2.png" width="300">
 
-
 </details>
 
 <details>
@@ -129,12 +128,5 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 # ARM
-
 # LEG
-
-# Head
-
-
-<details>
-<summary>Example</summary>
-</details>
+# HEAD
