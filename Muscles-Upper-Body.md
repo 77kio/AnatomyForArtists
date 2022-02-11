@@ -17,8 +17,7 @@
 |Arm flexion
 |Arm extension
 
-
-## SERRATUS ANTERIOR
+## Serratus Anterior
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
