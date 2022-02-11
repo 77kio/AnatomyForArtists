@@ -1,4 +1,3 @@
-# UPPER BODY
 ## Pectoralis Mayor(Pectorals)
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
@@ -126,18 +125,3 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/Qzbd5vw.png" width="400">
 
 </details>
-
-# ARM
-
-## Triceps Brachii
-## Biceps Brachii
-## Brachialis
-
-
-
-
-##
-
-
-
-# HEAD
