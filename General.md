@@ -46,6 +46,7 @@
 ## RECTUS ABDOMINUS
 
 ## External Oblique
+https://i.imgur.com/rDgVIBe.png
 
 # BACK
 
