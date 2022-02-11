@@ -16,9 +16,13 @@
 |Tuberosity|A large prominence on a bone usually serving for the attachment of muscles or ligaments
 |Ligaments|
 
-# FRONT
+# TORSO
 
-## PECTORALIS MAYOR (Pectorals)
+# PECTORALIS MAYOR (Pectorals)
+<img src="https://i.imgur.com/sk396rp.png" width="600">
+<img src="https://i.imgur.com/YG6qp81.jpg" width="203">
+
+
 |ORIGIN|INSERTION
 |:-:|:-:
 |The clavicular(top) part connects to the clavicle|Humerus tuberosity 
@@ -33,24 +37,45 @@
 |Arm extension
 
 
-## SERRATUS ANTERIOR
+# SERRATUS ANTERIOR
+<img src="https://i.imgur.com/zn3mERa.jpg" width="300">
+<img src="https://i.imgur.com/cBMKKW4.png" width="250">
+<img src="https://i.imgur.com/sdaY8Zl.png" width="160">
+<img src="https://i.imgur.com/rUWoHJq.png" width="230">
+<img src="https://i.imgur.com/JfzhWmC.png" width="150">
+<img src="https://i.imgur.com/x4ryIyP.png" width="180">
+
+
 |ORIGIN|INSERTION
 |:-:|:-:
 |Ribs (1-8/10)|Scapula
-||Scapula medial border
 
 |FUNCTION
 |:-:
-|Scapula movement/ rotation
+|Scapula(shoulder) movement/ rotation
 
-## RECTUS ABDOMINUS
+# RECTUS ABDOMINUS (Abs)
 
-## External Oblique
-https://i.imgur.com/rDgVIBe.png
+<img src="https://i.imgur.com/IHz1PbL.png" width="500">
+<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
-# BACK
+# OBLIQUES
+Internal Oblique
 
-## TRAPEZIUS
+<img src="https://i.imgur.com/omZfDtQ.png" width="500">
+
+External Oblique
+
+<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
+
+# TRAPEZIUS
+<img src="https://i.imgur.com/hBnYIUk.png" width="200">
+<img src="https://i.imgur.com/mzeNNVR.png" width="250">
+<img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
+<img src="https://i.imgur.com/XDR0oVa.jpg" width="300">
+
+The Cervical area is a diamond shaped part of the trapezius and the spine bone can be seen here
+
 |ORIGIN|INSERTION
 |:-:|:-:
 |Superior nuchal line (head)|Clavicle
@@ -63,15 +88,24 @@ https://i.imgur.com/rDgVIBe.png
 |Stand straight
 |Shoulder movement/ scalpula control
 
-## LATISIMUS DORSI
+# LATISIMUS DORSI
+<img src="https://i.imgur.com/ACrOdqt.png" width="328">
+<img src="https://i.imgur.com/kCY791a.png" width="300">
 
-More Info:
-Thoracolumbar fascia is a part of the latisimus but mostly not seen
+Thoracolumbar fascia is a part of the latisimus
 
-## Sacral Area
+<img src="https://i.imgur.com/ddSMY3t.jpg" width="300">
+
+
+# Sacral Area
 
 # ARM
 
 # LEG
 
 # Head
+
+
+<details>
+<summary>Example</summary>
+</details>
