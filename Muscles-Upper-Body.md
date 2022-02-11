@@ -90,7 +90,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
-## INFRASPINATUS, TERES MINOR, TERES MAYOR
+## Infraspinatus, Teres Minor, Teres Mayor
 
 ## General
 <details>
@@ -128,6 +128,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 # ARM
+
 
 # LEG
 
