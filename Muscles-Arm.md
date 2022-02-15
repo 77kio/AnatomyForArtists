@@ -1,6 +1,15 @@
 # Upper Arm
 ## Triceps Brachii
+|ORIGIN|INSERTION
+|:-:|:-:
+|Scapula|Ulna end
+|Humerus|
+
 ## Biceps Brachii
+|ORIGIN|INSERTION
+|:-:|:-:
+|Scapula|Radius tuberosity
+
 ## Brachialis
 ## Coracobrachialis
 https://i.imgur.com/2beqfTb.png
