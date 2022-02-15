@@ -15,17 +15,15 @@
 |Scapula|
 |Sternal manubrium|Top part of the Sternum
 |Sternum|Sternal manubrium is also the Sternum
-|Ribs|24 bones
+|Ribcage|24 rib bones
 |-|-
-|Spine|33 vertebrae/bones split into 5 regions: Cervical(C1-C7), Thoracic(T1-T12), Lumbar(L1-L5), Sacrum, and Coccyx. Only 24 are movable, the vertebrae in the Sacrum and Coccyx regions are fused
-|Sacrum|The connection point between Spine and Illium. The connection area is called Sacroiliac joint
-|Coccyx bone|The human tail leftover
+|Spine|33 vertebrae/bones split into 5 regions: Cervical(C1-C7), Thoracic(T1-T12), Lumbar(L1-L5), Sacrum, and Coccyx. Only 24 are movable, the vertebrae in the Sacrum and Coccyx regions are fused. The top vertebrae are Atlas followed by Axis which are important for head movement.
+|Sacrum|The connection point between Spine and Ilium. The connection area is called Sacroiliac joint. A part of the Spine
+|Coccyx bone|The human tail leftover. A part of the Spine
 |-|-
 |Ilium|
 |Pubis|made of 2 parts, the Pubic bone and the Pubic symphysis at the tip
 |Ischium|
-
-
 
 # Arm
 |Bone|Info
@@ -52,10 +50,11 @@
 |Metacarpals|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The Fingers, 2/3 Bones per part for a total of 14 bones
 
-
 # Foot
 |Bone|Info
 |:-:|:-:
 |Tarsal|Connects to the Tibia, 7 bones, important ones being Talus and Calcaneus
 |Metatarsal|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The toes, 2/3 Bones per part
+
+https://mayfieldclinic.com/pe-anatspine.htm
