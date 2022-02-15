@@ -1,3 +1,7 @@
+# Bones visible at surface level
+
+# Essential bones for placing muscles correctly
+
 # Head bones
 |Bone|Info
 |:-:|:-:
