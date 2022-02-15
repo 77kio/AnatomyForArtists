@@ -15,22 +15,39 @@
 https://i.imgur.com/2beqfTb.png
 
 # Forearm Flexor
-## flexor carpi ulnaris
-## flexor digitorum superficialis
+## Flexor carpi ulnaris
+## Flexor digitorum superficialis
 ## Flexor carpi radialis
 ## Palmaris longus
-## anconeus
-## adductor pollicis longus & extensor pollicis brevis
+## Anconeus
+## Adductor pollicis longus & extensor pollicis brevis
 
 # Forearm Extensors
-## extensor carpi ulnaris
-## extensor digitorum
-## extensor carpi radialis brevis
-## extensor carpi radialis longus
-## brachioradialis 
+## Extensor carpi ulnaris
+## Extensor digitorum
+## Extensor carpi radialis brevis
+## Extensor carpi radialis longus
+## Brachioradialis 
 ## Pronator teres
 
 # Hand
+## Hand Bones
+### Carpals (8 Bones)
+### Metacarpals (1 Bone per part)
+Phalangess like bones but not separately visible
+### Phalanges (3/2 Bones per part)
+Fingers
+
+## Hand Muscles
+### Thenar
+### Hypothenar muscles
+### Lumbricals
+### Palmar interossei
+### Dorsal interossei
+
+
+
+
 
 # Links
 ### Video
