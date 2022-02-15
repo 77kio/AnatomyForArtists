@@ -31,13 +31,6 @@ https://i.imgur.com/2beqfTb.png
 ## Pronator teres
 
 # Hand
-## Hand Bones
-### Carpals (8 Bones)
-### Metacarpals (1 Bone per part)
-Phalangess like bones but not separately visible
-### Phalanges (3/2 Bones per part)
-Fingers
-
 ## Hand Muscles
 ### Thenar
 ### Hypothenar muscles
