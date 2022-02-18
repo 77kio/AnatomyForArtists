@@ -1,4 +1,4 @@
-## Pectoralis Mayor(Pectorals)
+# Pectoralis Mayor(Pectorals)
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 
@@ -16,7 +16,7 @@
 |Arm flexion
 |Arm extension
 
-## Serratus Anterior
+# Serratus Anterior
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
@@ -33,7 +33,7 @@
 |:-:
 |Scapula(shoulder) movement/ rotation
 
-## Rectus Abdominus (Abs)
+# Rectus Abdominus (Abs)
 
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 <img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
@@ -47,7 +47,7 @@ External Oblique
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
-## Trapezius
+# Trapezius
 <img src="https://i.imgur.com/hBnYIUk.png" width="200">
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
@@ -75,7 +75,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Stand straight
 |Shoulder movement/ scalpula control
 
-## Latisimus Dorsi
+# Latisimus Dorsi
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
@@ -89,7 +89,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
-## Infraspinatus, Teres Minor, Teres Mayor
+# Infraspinatus, Teres Minor, Teres Mayor
 
 ## General
 <details>
