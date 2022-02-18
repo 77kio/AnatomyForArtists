@@ -1,4 +1,3 @@
-# KEYWORDS
 |Keyword|Explanation
 |:-:|:-:
 |Abduction|The movement of a limb away from the midline of the body (Deltoid)
