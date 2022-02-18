@@ -1,6 +1,7 @@
 # Bones visible at surface level
 Average Body
 Clavicle
+C7 and a bit of T1 vertebrae
 
 Muscular Body
 
