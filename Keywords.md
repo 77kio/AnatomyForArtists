@@ -27,7 +27,6 @@
 |Magnus|Great
 |Medius|Middle
 |Longus|Long
-
 |Medial(Medialis)|Towards the middle of the body.
 |Lateral(Lateralis)|Farther from the middle of the body. Sides of an object
 
