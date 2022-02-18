@@ -41,8 +41,8 @@ Muscular Body
 |Shoulder joint|
 |Humerus|
 |Elbow|
-|Ulna|
-|Radius|Connects to the **Carpals** (Hand)
+|Ulna|When rotating the wrist the **Ulna** doesn't rotate
+|Radius|Connects to the **Carpals**(Hand), the **Radius** rotates around the **Ulna** when rotating the wrist
 
 # Leg
 |Bone|Info
@@ -51,7 +51,7 @@ Muscular Body
 |Femur|
 |Patella|
 |Fibula|
-|Tibia|Connects to the **Tarsal** (Foot)
+|Tibia|Connects to the **Tarsal**(Foot), the **Fibula** rotates around the **Tibia** when rotating the ankle
 
 # Hand
 |Bone|Info
