@@ -6,8 +6,8 @@
 |Anterior|Direction towards the front of the body ("That which is before")
 |Posterior|Direction towards the back of the body ("That which follows after")
 |-|-
-|Extension|
-|Flexion|
+|Flexion|Decreases angle between bones (bending of the joint)
+|Extension|Increases angle between bones (straightens joint, bending of the joint)
 |-|-
 |External Rotation|The rotation of a joint towards the midline of the body
 |Internal Rotation|The rotation of a joint towards the midline of the body
@@ -25,7 +25,10 @@
 |Maximus|Largest
 |Rectus|Right in context of up-right
 |Magnus|Great
-|Medila/Medius|Middle
+|Medius|Middle
 |Longus|Long
-|Lateralis/Lateral|Sides of an object or sideways movement
 
+|Medial(Medialis)|Towards the middle of the body.
+|Lateral(Lateralis)|Farther from the middle of the body. Sides of an object
+
+Chest is medial of the arm
