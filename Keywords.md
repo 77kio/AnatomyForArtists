@@ -3,14 +3,11 @@
 |Abduction|The movement of a limb away from the midline of the body (Deltoid)
 |Adduction|The movement of a limb towards the midline of the body (Pectoralis)
 |-|-
-|Anterior|
-|Posterior|
+|Anterior|Direction towards the front of the body ("That which is before")
+|Posterior|Direction towards the back of the body ("That which follows after")
 |-|-
 |Extension|
 |Flexion|
-|-|-
-|Medial
-|Lateral
 |-|-
 |External Rotation|The rotation of a joint towards the midline of the body
 |Internal Rotation|The rotation of a joint towards the midline of the body
@@ -21,3 +18,14 @@
 |Disc|Spongy cushions that separate the vertebrae
 |Tissue|
 |Bone Tissue|The inside of a bone. Different bones have different structures like for example the honeycomb structure which is like bone armor
+
+# Latin
+|Word|Meaning
+|:-:|:-:
+|Maximus|Largest
+|Rectus|Right in context of up-right
+|Magnus|Great
+|Medila/Medius|Middle
+|Longus|Long
+|Lateralis/Lateral|Sides of an object or sideways movement
+
