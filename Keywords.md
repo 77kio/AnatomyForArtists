@@ -9,6 +9,9 @@
 |Extension|
 |Flexion|
 |-|-
+|Medial
+|Lateral
+|-|-
 |External Rotation|The rotation of a joint towards the midline of the body
 |Internal Rotation|The rotation of a joint towards the midline of the body
 |-|- 
