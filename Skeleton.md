@@ -1,4 +1,8 @@
 # Bones visible at surface level
+Average Body
+Clavicle
+
+Muscular Body
 
 # Essential bones for placing muscles correctly
 
