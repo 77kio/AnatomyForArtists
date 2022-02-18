@@ -4,6 +4,10 @@ Clavicle
 C7 and a bit of T1 vertebrae
 Scapula
 Ribcage
+Humerus (back)
+Patella
+Tibia
+
 
 Muscular Body
 
@@ -31,7 +35,7 @@ Muscular Body
 |Sacrum|The connection point between **Spine** and **Ilium**. The connection area is called **Sacroiliac joint**. A part of the **Spine**
 |Coccyx bone|The human tail leftover. A part of the **Spine**
 |-|-
-|Ilium|
+|Ilium/Iliac|
 |Pubis|Made of 2 parts, the **Pubic bone** and the **Pubic Symphysis** at the tip
 |Ischium|
 
