@@ -6,13 +6,25 @@
 |Humerus|
 
 ## Biceps Brachii
+The Biceps consists of two heads that unite at the bottom
+### Short Head
+More towards the center
 |ORIGIN|INSERTION
 |:-:|:-:
-|Scapula|Radius tuberosity
+|Scapula coracoid process|Radius tuberosity
+
+### Long Head
+|ORIGIN|INSERTION
+|:-:|:-:
+|Socket of the Scapula|Radius tuberosity
+
+
 
 ## Brachialis
+
 ## Coracobrachialis
-https://i.imgur.com/2beqfTb.png
+<img src="https://i.imgur.com/2beqfTb.png" width="600">
+
 
 # Forearm Flexor
 ## Flexor carpi ulnaris
