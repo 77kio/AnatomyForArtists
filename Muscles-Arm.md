@@ -1,24 +1,21 @@
 # Upper Arm
-## Triceps Brachii
-The Triceps consists of three heads that unite at the bottom
-|ORIGIN|INSERTION
-|:-:|:-:
-|Scapula|Ulna end
-|Humerus|
+## Triceps Brachii (T)
+The Triceps consists of three heads that unite at the bottom into the Triceps tendon
 
-## Biceps Brachii
+|MUSCLE PART|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Triceps Long Head|Scapula|Olecranon (Elbow)|
+|Triceps Lateral Head|Humerus|Olecranon (Elbow)|
+|Triceps Medial Head|Humerus|Olecranon (Elbow)|
+|Triceps Tendon|Middle of Long/Lateral Head|Olecranon (Elbow)|
+
+## Biceps Brachii (BB)
 The Biceps consists of two heads that unite at the bottom
-### Short Head
-More towards the center
-|ORIGIN|INSERTION
-|:-:|:-:
-|Scapula coracoid process|Radius tuberosity
 
-### Long Head
-|ORIGIN|INSERTION
-|:-:|:-:
-|Socket of the Scapula|Radius tuberosity
-
+|MUSCLE PART|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Short Head|Scapula coracoid process|Radius tuberosity|More towards the center
+|Biceps Long Head|Socket of the Scapula|Radius tuberosity|
 
 
 ## Brachialis
