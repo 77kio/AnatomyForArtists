@@ -39,6 +39,16 @@ Muscular Body
 |Pubis|Made of 2 parts, the **Pubic bone** and the **Pubic Symphysis** at the tip
 |Ischium|
 
+
+
+<details>
+<summary>Spine</summary>
+
+<img src="https://i.imgur.com/g4ZoX0w.png" width="600">
+<img src="https://i.imgur.com/DRtBrCC.jpg" width="300">
+
+</details>
+
 # Arm
 |Bone|Info
 |:-:|:-:
@@ -47,8 +57,12 @@ Muscular Body
 |Elbow|
 |Ulna|When rotating the wrist the **Ulna** doesn't rotate
 |Radius|Connects to the **Carpals**(Hand), the **Radius** rotates around the **Ulna** when rotating the wrist
+<details>
+<summary>Forarm rotation</summary>
 
 <img src="https://i.imgur.com/XWr5bkO.jpg" width="600">
+
+</details>
 
 # Leg
 |Bone|Info
@@ -74,16 +88,22 @@ Muscular Body
 |Phalanges|The toes, 2/3 Bones per part
 
 # Images
-<img src="https://i.imgur.com/g4ZoX0w.png" width="600">
+<details>
+<summary>Full Skeleton</summary>
 
 <img src="https://i.imgur.com/cyPhyOd.png" width="600">
-<img src="https://i.imgur.com/pXNv34K.png" width="600">
-<img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
 <img src="https://i.imgur.com/jL7mD72.png" width="600">
+<img src="https://i.imgur.com/vcFSw2a.jpg" width="600">
+
+<img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
+</details>
+
+<details>
+<summary>Male and Female Skeleton difference</summary>
+
 <img src="https://i.imgur.com/NZY3OHw.png" width="600">
-
-
-
+<img src="https://i.imgur.com/pXNv34K.png" width="600">
+</details>
 
 
 
