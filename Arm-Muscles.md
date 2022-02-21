@@ -1,6 +1,3 @@
-
-
-
 <details>
 <summary>Arm Muscles</summary>
 
@@ -9,24 +6,21 @@
 <img src="https://i.imgur.com/JD51tmS.jpg" width="900">
 <img src="https://i.imgur.com/QnukLmu.jpg" width="900">
 <img src="https://i.imgur.com/Y0rB5Kt.png" width="900">
-
 <img src="https://i.imgur.com/areD0zY.pngg" width="900">
-
 
 
 
 </details>
 
 # Upper Arm
-## Triceps Brachii
-The Triceps consists of three heads that unite at the bottom into the Triceps tendon
 
+# Deltoid
+The Deltoid isn't round and has a bump in the middle
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|_**Triceps Long Head (T)**_|Scapula|Olecranon (Elbow)|
-|_**Triceps Lateral Head (T)**_|Humerus|Olecranon (Elbow)|
-|_**Triceps Medial Head (T)**_|Humerus|Olecranon (Elbow)|
-|_**Triceps Tendon (T)**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
+|Deltoid Anterior Head|||
+|Deltoid Medial Head|||
+|Deltoid Posterior Head|||
 
 ## Biceps Brachii
 The Biceps consists of two heads that unite at the bottom
@@ -36,11 +30,20 @@ The Biceps consists of two heads that unite at the bottom
 |_**Biceps Short Head (BB)**_|Scapula coracoid process|Radius tuberosity|More towards the center
 |_**Biceps Long Head (BB)**_|Socket of the Scapula|Radius tuberosity|
 
-
 ## Brachialis
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Brachialis**_|||
+
+## Triceps Brachii
+The Triceps consists of three heads that unite at the bottom into the Triceps tendon
+
+|MUSCLE PART|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|_**Triceps Long Head (T)**_|Scapula|Olecranon (Elbow)|
+|_**Triceps Lateral Head (T)**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Medial Head (T)**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Tendon (T)**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
 
 ## Coracobrachialis
 |MUSCLE PART|ORIGIN|INSERTION|INFO
