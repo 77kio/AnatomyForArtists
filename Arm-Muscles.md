@@ -1,3 +1,22 @@
+
+
+
+<details>
+<summary>Arm Muscles</summary>
+
+<img src="https://i.imgur.com/EMK56VX.jpg" width="900">
+<img src="https://i.imgur.com/uejvZRp.jpg" width="900">
+<img src="https://i.imgur.com/JD51tmS.jpg" width="900">
+<img src="https://i.imgur.com/QnukLmu.jpg" width="900">
+<img src="https://i.imgur.com/Y0rB5Kt.png" width="900">
+
+<img src="https://i.imgur.com/areD0zY.pngg" width="900">
+
+
+
+
+</details>
+
 # Upper Arm
 ## Triceps Brachii
 The Triceps consists of three heads that unite at the bottom into the Triceps tendon
@@ -34,15 +53,15 @@ The Biceps consists of two heads that unite at the bottom
 <img src="https://i.imgur.com/2beqfTb.png" width="600">
 </details>
 
-
-The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps**/ **Brachialis **and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
+# Forearm
+The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps/ Brachialis** and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
 <details>
 <summary>Flexor and Extensor borders</summary>
 
-<img src="https://i.imgur.com/XSTRzzp.png" width="600">
+<img src="https://i.imgur.com/p4CYanu.jpg" width="600">
 </details>
 
-# Forearm Flexor
+## Forearm Flexor
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Flexor Carpi Ulnaris (FCU)**_|Between Triceps and Biceps|Bottom of hand far side from thumb|
@@ -53,7 +72,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |_**Pronator Teres (PT)**_|Between Triceps and Biceps|Middle of Brachioradialis|Stays beside the Biceps 
 
 
-# Forearm Extensors
+## Forearm Extensors
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Brachioradialis (Brr)**_|Between Brachialis and Triceps|Inner side of hand|Brachialis side, bigger one
