@@ -71,4 +71,8 @@ Muscular Body
 |Metatarsal|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The toes, 2/3 Bones per part
 
+# Images
+https://i.imgur.com/g4ZoX0w.png
+
+# Links
 https://mayfieldclinic.com/pe-anatspine.htm
