@@ -14,13 +14,14 @@
 
 # Upper Arm
 
-# Deltoid
-The Deltoid isn't round and has a bump in the middle
-|MUSCLE PART|ORIGIN|INSERTION|INFO
-|:-:|:-:|:-:|:-:
-|Deltoid Anterior Head|||
-|Deltoid Medial Head|||
-|Deltoid Posterior Head|||
+## Deltoid
+- Deltoid arches to the front, the sharp tip going backwards
+- The Deltoid isn't round but has a bump in the middle
+|MUSCLE PART|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|Deltoid Anterior Head||
+|Deltoid Medial Head||
+|Deltoid Posterior Head||
 
 ## Biceps Brachii
 The Biceps consists of two heads that unite at the bottom
