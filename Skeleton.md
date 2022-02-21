@@ -48,6 +48,8 @@ Muscular Body
 |Ulna|When rotating the wrist the **Ulna** doesn't rotate
 |Radius|Connects to the **Carpals**(Hand), the **Radius** rotates around the **Ulna** when rotating the wrist
 
+<img src="https://i.imgur.com/XWr5bkO.jpg" width="600">
+
 # Leg
 |Bone|Info
 |:-:|:-:
@@ -72,7 +74,19 @@ Muscular Body
 |Phalanges|The toes, 2/3 Bones per part
 
 # Images
-https://i.imgur.com/g4ZoX0w.png
+<img src="https://i.imgur.com/g4ZoX0w.png" width="600">
+
+<img src="https://i.imgur.com/cyPhyOd.png" width="600">
+<img src="https://i.imgur.com/pXNv34K.png" width="600">
+<img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
+<img src="https://i.imgur.com/jL7mD72.png" width="600">
+<img src="https://i.imgur.com/NZY3OHw.png" width="600">
+
+
+
+
+
+
 
 # Links
 https://mayfieldclinic.com/pe-anatspine.htm
