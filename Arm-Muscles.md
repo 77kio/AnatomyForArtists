@@ -4,18 +4,18 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|Triceps Long Head|Scapula|Olecranon (Elbow)|
-|Triceps Lateral Head|Humerus|Olecranon (Elbow)|
-|Triceps Medial Head|Humerus|Olecranon (Elbow)|
-|Triceps Tendon|Middle of Long/Lateral Head|Olecranon (Elbow)|
+|_**Triceps Long Head**_|Scapula|Olecranon (Elbow)|
+|_**Triceps Lateral Head**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Medial Head**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Tendon**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
 
 ## Biceps Brachii (BB)
 The Biceps consists of two heads that unite at the bottom
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|Short Head|Scapula coracoid process|Radius tuberosity|More towards the center
-|Biceps Long Head|Socket of the Scapula|Radius tuberosity|
+|_**Biceps  Short Head**_|Scapula coracoid process|Radius tuberosity|More towards the center
+|_**Biceps Long Head**_|Socket of the Scapula|Radius tuberosity|
 
 
 ## Brachialis
