@@ -1,28 +1,46 @@
 # Upper Arm
-## Triceps Brachii (T)
+## Triceps Brachii
 The Triceps consists of three heads that unite at the bottom into the Triceps tendon
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|_**Triceps Long Head**_|Scapula|Olecranon (Elbow)|
-|_**Triceps Lateral Head**_|Humerus|Olecranon (Elbow)|
-|_**Triceps Medial Head**_|Humerus|Olecranon (Elbow)|
-|_**Triceps Tendon**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
+|_**Triceps Long Head (T)**_|Scapula|Olecranon (Elbow)|
+|_**Triceps Lateral Head (T)**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Medial Head (T)**_|Humerus|Olecranon (Elbow)|
+|_**Triceps Tendon (T)**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
 
-## Biceps Brachii (BB)
+## Biceps Brachii
 The Biceps consists of two heads that unite at the bottom
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|_**Biceps  Short Head**_|Scapula coracoid process|Radius tuberosity|More towards the center
-|_**Biceps Long Head**_|Socket of the Scapula|Radius tuberosity|
+|_**Biceps Short Head (BB)**_|Scapula coracoid process|Radius tuberosity|More towards the center
+|_**Biceps Long Head (BB)**_|Socket of the Scapula|Radius tuberosity|
 
 
 ## Brachialis
+|MUSCLE PART|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|_**Brachialis**_|||
 
 ## Coracobrachialis
-<img src="https://i.imgur.com/2beqfTb.png" width="600">
+|MUSCLE PART|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|_**Coracobrachialis**_|||
 
+<details>
+<summary>Example</summary>
+
+<img src="https://i.imgur.com/2beqfTb.png" width="600">
+</details>
+
+
+The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps**/ **Brachialis **and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
+<details>
+<summary>Flexor and Extensor borders</summary>
+
+<img src="https://i.imgur.com/XSTRzzp.png" width="600">
+</details>
 
 # Forearm Flexor
 |MUSCLE|ORIGIN|INSERTION|INFO
@@ -51,14 +69,18 @@ The Biceps consists of two heads that unite at the bottom
 
 
 # Hand
-## Hand Muscles
-### Thenar
-### Hypothenar muscles
-### Lumbricals
-### Palmar interossei
-### Dorsal interossei
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|_**Thenar**_|||
+|_**Hypothenar muscles**_|||
+|_**Lumbricals**_|||
+|_**Palmar Interossei**_|||
+|_**Dorsal Interossei**_|||
 
-
+# Foot
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+||||
 
 # Links
 ### Video
