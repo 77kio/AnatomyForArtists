@@ -1,14 +1,17 @@
 <details>
 <summary>Arm Muscles</summary>
 
-<img src="https://i.imgur.com/EMK56VX.jpg" width="900">
-<img src="https://i.imgur.com/uejvZRp.jpg" width="900">
-<img src="https://i.imgur.com/JD51tmS.jpg" width="900">
-<img src="https://i.imgur.com/QnukLmu.jpg" width="900">
-<img src="https://i.imgur.com/Y0rB5Kt.png" width="900">
-<img src="https://i.imgur.com/areD0zY.pngg" width="900">
-
-
+<img src="https://i.imgur.com/EMK56VX.jpg" width="800">
+<img src="https://i.imgur.com/uejvZRp.jpg" width="800">
+<img src="https://i.imgur.com/JD51tmS.jpg" width="800">
+<img src="https://i.imgur.com/QnukLmu.jpg" width="800">
+<img src="https://i.imgur.com/Y0rB5Kt.png" width="800">
+<img src="https://i.imgur.com/areD0zY.png" width="800">
+<img src="https://i.imgur.com/cPGRLRa.jpg" width="800">
+<img src="https://i.imgur.com/SKNBr02.jpg" width="800">
+<img src="https://i.imgur.com/rPvCNNi.jpg" width="800">
+<img src="https://i.imgur.com/6uha2U6.jpg" width="800">
+<img src="https://i.imgur.com/JRIbmr1.jpg" width="800">
 
 </details>
 
@@ -17,11 +20,22 @@
 ## Deltoid
 - Deltoid arches to the front, the sharp tip going backwards
 - The Deltoid isn't round but has a bump in the middle
+
 |MUSCLE PART|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |Deltoid Anterior Head||
 |Deltoid Medial Head||
 |Deltoid Posterior Head||
+
+<details>
+<summary>Example</summary>
+
+<img src="https://i.imgur.com/iQoEMlJ.png" width="900">
+<img src="https://i.imgur.com/w3XqhLw.jpg" width="900">
+
+
+</details>
+
 
 ## Biceps Brachii
 The Biceps consists of two heads that unite at the bottom
@@ -63,6 +77,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 <summary>Flexor and Extensor borders</summary>
 
 <img src="https://i.imgur.com/p4CYanu.jpg" width="600">
+<img src="https://i.imgur.com/Ng4lvza.jpg" width="600">
 </details>
 
 ## Forearm Flexor
@@ -99,6 +114,13 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |_**Lumbricals**_|||
 |_**Palmar Interossei**_|||
 |_**Dorsal Interossei**_|||
+
+<details>
+<summary>Example</summary>
+<img src="https://i.imgur.com/7ccJ52x.jpg" width="900">
+
+
+</details>
 
 # Foot
 |MUSCLE|ORIGIN|INSERTION|INFO
