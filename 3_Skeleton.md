@@ -1,5 +1,6 @@
 # Bones visible at surface level
-## Average Body
+Bony landmarks are essential for placing muscles correctly
+
 - Clavicle
 - C7 and a bit of T1 vertebrae
 - Scapula
@@ -8,7 +9,20 @@
 - Patella
 - Tibia
 
-# Essential bones for placing muscles correctly
+<details>
+<summary>Example</summary>
+<img src="https://i.imgur.com/L8QN0kU.jpg" width="600">
+<img src="https://i.imgur.com/0pnMy87.jpg" width="600">
+<img src="https://i.imgur.com/DKfMpR4.jpg" width="800">
+<img src="https://i.imgur.com/Z8zLtoj.jpg" width="600">
+<img src="https://i.imgur.com/UxghcpJ.jpg" width="600">
+<img src="https://i.imgur.com/T9pzY1x.jpg" width="600">
+
+
+
+
+</details>
+
 
 # Head bones
 |Bone|Info
