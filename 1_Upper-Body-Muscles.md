@@ -123,12 +123,6 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <details>
 <summary>Info</summary>
 
-<img src="https://i.imgur.com/H7EbEZM.png" width="340">
-<img src="https://i.imgur.com/F9JAj5s.png" width="340">
-<img src="https://i.imgur.com/epjPagM.png" width="340">
-<img src="https://i.imgur.com/340KSe1.png" width="340">
-
-
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |Infraspinatus|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Humerus Tubercle|Follows the Scapula Spine
@@ -136,8 +130,10 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 |Teres Mayor|Inferior Angle (Scapula)|Humerus Front|
 |Rhomboid Mayor|Medial Border (Scapula)|Vertebrae (T2-T5)|Only Visible when arm rotates up or forward
 
-
-
+<img src="https://i.imgur.com/H7EbEZM.png" width="340">
+<img src="https://i.imgur.com/F9JAj5s.png" width="340">
+<img src="https://i.imgur.com/epjPagM.png" width="340">
+<img src="https://i.imgur.com/340KSe1.png" width="340">
 
 </details>
 
