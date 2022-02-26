@@ -1,4 +1,4 @@
-The only anatomy guide a 3d/ 2d artists needs.
+The only anatomy guide a 3d/2d artists needs.
 
 Contains:
 - Muscles
