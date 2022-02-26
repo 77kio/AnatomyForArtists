@@ -1,15 +1,12 @@
 # Bones visible at surface level
 ## Average Body
-Clavicle
-C7 and a bit of T1 vertebrae
-Scapula
-Ribcage
-Humerus (back)
-Patella
-Tibia
-
-
-Muscular Body
+- Clavicle
+- C7 and a bit of T1 vertebrae
+- Scapula
+- Ribcage
+- Humerus (back)
+- Patella
+- Tibia
 
 # Essential bones for placing muscles correctly
 
