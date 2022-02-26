@@ -1,3 +1,10 @@
+<details>
+<summary>Leg Muscles</summary>
+
+<img src="" width="800">
+
+</details>
+
 # Upper Leg
 ## Glutes/ Outer thigh
 ### Tensor Fascia Lata 
