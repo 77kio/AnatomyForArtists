@@ -1,31 +1,38 @@
-# Fat Spots
+# Breast 
 - Breast fat
-- Abdominal fat pad
-- Pubic fat pad - Pelvic region
 
-- Flank fat pad (Love Handels)
+# Abdominal
+Starts under belly button, lowest square of six pac
+- Abdominal fat pad
+
+# Pelvic region
+### Love handles
+Gives illusion of higher hips because the waistline starts earlier
+- Flank fat pad
+
+### But/ Outer thigh
 - Lateral Gluteal fat pad
 - Posterior Gluteal fat pad
-
-- Outer Thigh fat pad
 - Inferior Gluteal fat pad
+- Outer Thigh fat pad
+
+### Inner thigh
 - Inner Thigh fat pad
 
-- Popliteal fat pad
+### Pubic
+- Pubic fat pad
 
-### Triangle pat pads
+# Leg
+### Knee 
+Triangle formation. The Lower Anterior starts above the patella and below the hamstrings
 - Lower Anterior Thigh fat pad
 - Infrapatellar fat pad
 
+### Behind knee
+- Popliteal fat pad
 
 
-
-
-
-Illusion of higher hips because the waistline starts earlier
-
-
-
+# Full Body
 <img src="https://i.imgur.com/Zr60let.jpg" width="500">
 <img src="https://i.imgur.com/i1VkDi5.jpg" width="500">
 <img src="https://i.imgur.com/dVYblqE.jpg" width="500">
@@ -35,5 +42,3 @@ Illusion of higher hips because the waistline starts earlier
 <img src="https://i.imgur.com/EqT8UsY.png" width="500">
 <img src="https://i.imgur.com/AZ1HgTs.jpg" width="500">
 <img src="https://i.imgur.com/7uPiwQ8.png" width="500">
-
-
