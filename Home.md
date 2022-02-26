@@ -1,7 +1,8 @@
-A complete anatomy guide for 3d and 2d artists.
+The only anatomy guide a 3d/ 2d artists needs.
 
 Contains:
 - Muscles
 - Fat regions
 - Bones
 - Veins
+- Proportions/ Body types
