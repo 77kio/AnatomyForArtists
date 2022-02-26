@@ -1,6 +1,12 @@
-# Pectoralis Mayor(Pectorals)
+# Pectoralis Mayor (Pectorals)
+
+<details>
+<summary>Anatomy</summary>
+
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
+
+</details>
 
 <details>
 <summary>Info</summary>
@@ -21,12 +27,18 @@
 </details>
 
 # Serratus Anterior
+
+<details>
+<summary>Anatomy</summary>
+
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
 <img src="https://i.imgur.com/rUWoHJq.png" width="230">
 <img src="https://i.imgur.com/JfzhWmC.png" width="150">
 <img src="https://i.imgur.com/x4ryIyP.png" width="180">
+
+</details>
 
 <details>
 <summary>Info</summary>
@@ -43,10 +55,19 @@
 
 # Rectus Abdominus (Abs)
 
+<details>
+<summary>Anatomy</summary>
+
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 <img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
-## Obliques
+</details>
+
+# Obliques
+
+<details>
+<summary>Anatomy</summary>
+
 Internal Oblique
 
 <img src="https://i.imgur.com/omZfDtQ.png" width="500">
@@ -55,7 +76,13 @@ External Oblique
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
+</details>
+
 # Trapezius
+
+<details>
+<summary>Anatomy</summary>
+
 <img src="https://i.imgur.com/hBnYIUk.png" width="200">
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
@@ -68,8 +95,9 @@ External Oblique
 <img src="https://i.imgur.com/kCM0wed.png" width="500">
 <img src="https://i.imgur.com/wCf1HcZ.png" width="300">
 
-
 The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bones are especially pronounced here
+
+</details>
 
 <details>
 <summary>Info</summary>
@@ -89,12 +117,15 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 </details>
 
 # Latisimus Dorsi
+
+<details>
+<summary>Anatomy</summary>
+
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
-
 
 The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
 
@@ -104,7 +135,12 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
+</details>
+
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor
+
+<details>
+<summary>Anatomy</summary>
 
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
@@ -119,6 +155,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/mnxFG0N.png" width="340">
 <img src="https://i.imgur.com/l5rkyVS.png" width="340">
 
+</details>
 
 <details>
 <summary>Info</summary>
@@ -138,7 +175,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 
-## General
+# General
 <details>
 <summary>General Torso Muscle Anatomy (relaxed)</summary>
 
