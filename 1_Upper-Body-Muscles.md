@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/sk396rp.png" width="600">
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 
+<details>
+<summary>Info</summary>
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -16,6 +18,8 @@
 |Arm flexion
 |Arm extension
 
+</details>
+
 # Serratus Anterior
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
@@ -24,6 +28,8 @@
 <img src="https://i.imgur.com/JfzhWmC.png" width="150">
 <img src="https://i.imgur.com/x4ryIyP.png" width="180">
 
+<details>
+<summary>Info</summary>
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -32,6 +38,8 @@
 |FUNCTION
 |:-:
 |Scapula(shoulder) movement/ rotation
+
+</details>
 
 # Rectus Abdominus (Abs)
 
@@ -63,6 +71,9 @@ External Oblique
 
 The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bones are especially pronounced here
 
+<details>
+<summary>Info</summary>
+
 |ORIGIN|INSERTION
 |:-:|:-:
 |Superior nuchal line (head)|Clavicle
@@ -75,10 +86,14 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Stand straight
 |Shoulder movement/ scalpula control
 
+</details>
+
 # Latisimus Dorsi
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
+<img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
+<img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
 
 
 The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
@@ -89,7 +104,43 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
-# Infraspinatus, Teres Minor, Teres Mayor
+# Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor
+
+<img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
+<img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
+<img src="https://i.imgur.com/IkGsJl1.png" width="340">
+<img src="https://i.imgur.com/NyKKfdG.jpg" width="340">
+<img src="https://i.imgur.com/tl8rNuX.jpg" width="340">
+<img src="https://i.imgur.com/yvhR7hz.jpg" width="340">
+<img src="https://i.imgur.com/1Z5Kc5E.jpg" width="340">
+<img src="https://i.imgur.com/t9ljhZX.jpg" width="340">
+<img src="https://i.imgur.com/iIp3aBQ.jpg" width="340">
+<img src="https://i.imgur.com/RqJf9vh.jpg" width="340">
+<img src="https://i.imgur.com/mnxFG0N.png" width="340">
+<img src="https://i.imgur.com/l5rkyVS.png" width="340">
+
+
+<details>
+<summary>Info</summary>
+
+<img src="https://i.imgur.com/H7EbEZM.png" width="340">
+<img src="https://i.imgur.com/F9JAj5s.png" width="340">
+<img src="https://i.imgur.com/epjPagM.png" width="340">
+<img src="https://i.imgur.com/340KSe1.png" width="340">
+
+
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Infraspinatus|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Humerus Tubercle|Follows the Scapula Spine
+|Teres Minor|Lateral border (Scapula)|Humerus Tubercle|Smallest
+|Teres Mayor|Inferior Angle (Scapula)|Humerus Front|
+|Rhomboid Mayor|Medial Border (Scapula)|Vertebrae (T2-T5)|Only Visible when arm rotates up or forward
+
+
+
+
+</details>
+
 
 ## General
 <details>
