@@ -99,6 +99,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |-|-|-|-
 |_**Extensor Carpi Radialis Brevis (ECRB)**_|Between Extensor Carpi Radialis Longus and Triceps|Inner side of hand|Barely visible, Smaller one
 |_**Abductor Pollicis Longus & Extensor Pollicis Brevis (Anatomical Snuffbox)**_|Middle of Extensor Digitorum|Inner sie of hand|Barely visible
+|-|-|-|-
 |_**Extensor Digitorum (ED)**_|Between Extensor Carpi Radialis Longus and Triceps|Top of hand|Bigger one, goes to the top tips of all fingers except thumb|
 |-|-|-|-
 |_**Extensor Digitorum Minimi (EDM) & Extensor Carpi Ulnaris (ECU)**_|Between Extensor Carpi Radialis Longus and Triceps|Top of hand far side from thumb|Should be done as one
