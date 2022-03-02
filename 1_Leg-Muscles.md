@@ -18,34 +18,44 @@
 |Iliotibial Tract (band)|
 
 ## Quadriceps femrois
-### Vastus Lateralis
-### Rectus Femrois
-### Vastus Medilas
-### Patella
-### Patellar ligament
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Vastus Lateralis|
+|Rectus Femrois|
+|Vastus Medilas|
+|Patella|
+|Patellar ligament|
 
 ## Seperator
 ### Sartorius
 
 ## Inner Thigh
-### Iliopsoas (not important)
-### Pectineus
-### Adductor Longus
-### Gracilis
-### Adductor Magnus (not important)
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Iliopsoas (not important)|
+|Pectineus|
+|Adductor Longus|
+|Gracilis|
+|Adductor Magnus (not important)|
 
 ## Hamstrings
-### Semitendinosus
-### Biceps Femrois
-### Semimembranosus
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Semitendinosus|
+|Biceps Femrois|
+|Semimembranosus|
 
 # Lower Leg
 ## Calvs
-### Gastrocnemius
-### Soleus
-### Calacaneal tendon (Achilles)
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Gastrocnemius|
+|Soleus|
+|Calacaneal tendon (Achilles)|
 
 ## Shin
-### Tibialis Anterior
-### Extensor Digitorum Longus
-### Peroneus Longus
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Tibialis Anterior|
+|Extensor Digitorum Longus|
+|Peroneus Longus|
