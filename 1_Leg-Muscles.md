@@ -29,7 +29,7 @@
 |Tensor Fascia Lata|
 |Gluteus Medius|
 |Gluteus Maximus|
-|Iliotibial Tract (band)|
+|Iliotibial Tract (Iliotibial  Band)|
 
 ## Quadriceps femrois
 |MUSCLE|ORIGIN|INSERTION|INFO
