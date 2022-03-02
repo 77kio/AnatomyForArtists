@@ -1,7 +1,23 @@
 <details>
 <summary>Leg Muscles</summary>
 
-<img src="" width="800">
+<img src="https://i.imgur.com/cEDJ537.jpg" width="500">
+<img src="https://i.imgur.com/RQMzqvX.jpg" width="500">
+<img src="https://i.imgur.com/5ERombM.jpg" width="500">
+<img src="https://i.imgur.com/DYknVAo.png" width="500">
+<img src="https://i.imgur.com/jLuIdVt.jpg" width="500">
+<img src="https://i.imgur.com/8xzvWP9.jpg" width="500">
+<img src="https://i.imgur.com/un38Aja.jpg" width="500">
+<img src="https://i.imgur.com/0R7Qjb7.png" width="500">
+<img src="https://i.imgur.com/IYj4U0t.jpg" width="500">
+
+
+</details>
+
+<details>
+<summary>Helping bones</summary>
+
+
 
 </details>
 
