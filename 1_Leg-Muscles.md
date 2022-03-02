@@ -5,9 +5,7 @@
 
 </details>
 
-# Upper Leg
-
-
+# UPPER LEG
 
 ## Glutes/ Outer thigh
 |MUSCLE|ORIGIN|INSERTION|INFO
@@ -23,11 +21,11 @@
 |Vastus Lateralis|
 |Rectus Femrois|
 |Vastus Medilas|
-|Patella|
-|Patellar ligament|
+|-|
+|Patella(Knee)|||Patellar ligament
+|-|
+|Sartorius|
 
-## Seperator
-### Sartorius
 
 ## Inner Thigh
 |MUSCLE|ORIGIN|INSERTION|INFO
@@ -45,17 +43,21 @@
 |Biceps Femrois|
 |Semimembranosus|
 
-# Lower Leg
+# LOWER LEG
 ## Calvs
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |Gastrocnemius|
 |Soleus|
-|Calacaneal tendon (Achilles)|
+|Achilles tendon (Calacaneal tendon)|
 
 ## Shin
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
+|Fibula(Shinbone)|
+|-|
 |Tibialis Anterior|
 |Extensor Digitorum Longus|
 |Peroneus Longus|
+
+
