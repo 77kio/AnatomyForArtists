@@ -6,11 +6,16 @@
 </details>
 
 # Upper Leg
+
+
+
 ## Glutes/ Outer thigh
-### Tensor Fascia Lata 
-### Gluteus Medius
-### Gluteus Maximus
-### Iliotibial Tract (band)
+|MUSCLE|ORIGIN|INSERTION|INFO
+|:-:|:-:|:-:|:-:
+|Tensor Fascia Lata|
+|Gluteus Medius|
+|Gluteus Maximus|
+|Iliotibial Tract (band)|
 
 ## Quadriceps femrois
 ### Vastus Lateralis
