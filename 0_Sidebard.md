@@ -1,1 +1,0 @@
-Great places to learn anatomy (Videos, articles, artists).
