@@ -6,3 +6,5 @@ Contains:
 - Bones
 - Veins
 - Proportions/ Body types
+
+-> Or go back to the overarching [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki) wiki
