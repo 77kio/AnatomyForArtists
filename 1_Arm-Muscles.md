@@ -106,28 +106,6 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |-|-|-|-
 |_**Anconeus (A)**_|||Below Triceps
 
-
-# Hand
-|MUSCLE|ORIGIN|INSERTION|INFO
-|:-:|:-:|:-:|:-:
-|_**Thenar**_|||
-|_**Hypothenar muscles**_|||
-|_**Lumbricals**_|||
-|_**Palmar Interossei**_|||
-|_**Dorsal Interossei**_|||
-
-<details>
-<summary>Example</summary>
-<img src="https://i.imgur.com/7ccJ52x.jpg" width="900">
-
-
-</details>
-
-# Foot
-|MUSCLE|ORIGIN|INSERTION|INFO
-|:-:|:-:|:-:|:-:
-||||
-
 # Links
 ### Video
 - https://www.youtube.com/watch?v=Ztk8VfqMJHw
