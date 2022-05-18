@@ -1,5 +1,5 @@
 # Breast 
-The berast lay on top of the pectoralis mayor and are visibly one with it.
+The berast lay on top of the pectoralis mayor and are visibly "one" with it.
 
 - Breast fat
 
