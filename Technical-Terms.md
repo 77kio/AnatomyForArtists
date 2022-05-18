@@ -3,7 +3,7 @@
 |Abduction|The movement of a limb away from the midline of the body (Deltoid)
 |Adduction|The movement of a limb towards the midline of the body (Pectoralis)
 |-|-
-|Origin/Insertion|When a muscles flexes the insertion moves to the origin
+|Origin/Insertion|The start and end point of a muscle. When a muscles flexes the insertion moves to the origin
 |-|-
 |Anterior|Direction towards the front of the body ("That which is before")
 |Posterior|Direction towards the back of the body ("That which follows after")
