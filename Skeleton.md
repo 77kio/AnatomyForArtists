@@ -1,5 +1,5 @@
 # Bones visible at surface level
-Bony landmarks are essential for placing muscles correctly
+Bony landmarks are essential for placing muscles correctly as well as often being visible
 
 - Clavicle
 - C7 and a bit of T1 vertebrae
