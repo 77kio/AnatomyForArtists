@@ -29,7 +29,5 @@
 |Magnus|Great
 |Medius|Middle
 |Longus|Long
-|Medial(Medialis)|Towards the middle of the body.
+|Medial(Medialis)|Towards the middle of the body (Use: Chest is medial of the arm)
 |Lateral(Lateralis)|Farther from the middle of the body. Sides of an object
-
-Chest is medial of the arm
