@@ -179,7 +179,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 
-# Upper Body
+# Full Upper Body
 <details>
 <summary>General Torso Muscle Anatomy (relaxed)</summary>
 
