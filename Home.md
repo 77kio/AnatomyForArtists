@@ -4,6 +4,7 @@ Contains:
 - Muscles
 - Fat regions
 - Bones
+- Skin Color
 - Veins
 - Proportions/ Body types
 
