@@ -15,5 +15,6 @@
 - [Hands and Feet](https://github.com/Epicrex/AnatomyForArtists/wiki/Hands-and-Feet)
 
 ### Other
+- [Skin Color]()
 - [Fat Spots](https://github.com/Epicrex/AnatomyForArtists/wiki/Fat-spots)
 - [Veins](https://github.com/Epicrex/AnatomyForArtists/wiki/Veins)
