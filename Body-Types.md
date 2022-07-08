@@ -1,3 +1,9 @@
+# Intro
+There are 3 things that influence the body type. Bone proportions, fat distribution and how the muscle develop
+
+# Resources
+- [FEMALE BODY TYPES marc brunet](https://www.youtube.com/watch?v=Rh1K28FMJuo)
+- [FANTASY BODY TYPES marc brunet](https://www.youtube.com/watch?v=nNtHUZKbP3E)
 # ⚠ Sort In
 
 ## Female body shapes
