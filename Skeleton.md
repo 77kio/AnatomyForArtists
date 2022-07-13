@@ -16,7 +16,7 @@
 <img src="https://i.imgur.com/pXNv34K.png" width="600">
 </details>
 
-# Bones visible at surface level
+# Bones visible at surface level (Bony Landmarks)
 Bony landmarks are essential for placing muscles correctly as well as often being visible
 
 - Clavicle
