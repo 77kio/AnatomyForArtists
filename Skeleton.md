@@ -1,3 +1,21 @@
+# Full Body
+<details>
+<summary>Full Skeleton</summary>
+
+<img src="https://i.imgur.com/cyPhyOd.png" width="600">
+<img src="https://i.imgur.com/jL7mD72.png" width="600">
+<img src="https://i.imgur.com/vcFSw2a.jpg" width="600">
+
+<img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
+</details>
+
+<details>
+<summary>Male and Female Skeleton difference</summary>
+
+<img src="https://i.imgur.com/NZY3OHw.png" width="600">
+<img src="https://i.imgur.com/pXNv34K.png" width="600">
+</details>
+
 # Bones visible at surface level
 Bony landmarks are essential for placing muscles correctly as well as often being visible
 
@@ -97,26 +115,6 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Tarsal|Connects to the **Tibia**, 7 bones, important ones being **Talus** and **Calcaneus**
 |Metatarsal|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The toes, 2/3 Bones per part
-
-# Images
-<details>
-<summary>Full Skeleton</summary>
-
-<img src="https://i.imgur.com/cyPhyOd.png" width="600">
-<img src="https://i.imgur.com/jL7mD72.png" width="600">
-<img src="https://i.imgur.com/vcFSw2a.jpg" width="600">
-
-<img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
-</details>
-
-<details>
-<summary>Male and Female Skeleton difference</summary>
-
-<img src="https://i.imgur.com/NZY3OHw.png" width="600">
-<img src="https://i.imgur.com/pXNv34K.png" width="600">
-</details>
-
-
 
 
 # Links
