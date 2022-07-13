@@ -1,3 +1,38 @@
+# Full Upper Body
+<details>
+<summary>General Torso Muscle Anatomy (relaxed)</summary>
+
+<img src="https://i.imgur.com/8WEPeQo.jpg" width="300">
+<img src="https://i.imgur.com/aguHSnw.jpg" width="300">
+<img src="https://i.imgur.com/KXQPVa3.jpg" width="300">
+<img src="https://i.imgur.com/mNjKLnb.jpg" width="300">
+<img src="https://i.imgur.com/Ly0cekJ.png" width="300">
+<img src="https://i.imgur.com/jMrZWVQ.png" width="300">
+<img src="https://i.imgur.com/54f4m0z.png" width="300">
+<img src="https://i.imgur.com/bvMzpWZ.png" width="300">
+<img src="https://i.imgur.com/GGGoE3b.png" width="300">
+<img src="https://i.imgur.com/2vxK5Al.png" width="300">
+<img src="https://i.imgur.com/emTT3ML.png" width="300">
+<img src="https://i.imgur.com/xHHdRJM.png" width="300">
+<img src="https://i.imgur.com/aHqumPa.png" width="300">
+<img src="https://i.imgur.com/wsFmwb2.png" width="300">
+
+</details>
+
+<details>
+<summary>General Torso Muscle Anatomy (pose)</summary>
+
+<img src="https://i.imgur.com/CGtEa5F.png" width="400">
+<img src="https://i.imgur.com/i74UGZQ.png" width="400">
+<img src="https://i.imgur.com/Z1Qlcej.png" width="400">
+<img src="https://i.imgur.com/8ACJBdN.png" width="400">
+<img src="https://i.imgur.com/AEuIZba.png" width="400">
+<img src="https://i.imgur.com/gdsI0xg.png" width="400">
+<img src="https://i.imgur.com/dgx5fFt.png" width="400">
+<img src="https://i.imgur.com/Qzbd5vw.png" width="400">
+
+</details>
+
 # Pectoralis Mayor (Pectorals)
 
 <details>
@@ -175,41 +210,5 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/F9JAj5s.png" width="340">
 <img src="https://i.imgur.com/epjPagM.png" width="340">
 <img src="https://i.imgur.com/340KSe1.png" width="340">
-
-</details>
-
-
-# Full Upper Body
-<details>
-<summary>General Torso Muscle Anatomy (relaxed)</summary>
-
-<img src="https://i.imgur.com/8WEPeQo.jpg" width="300">
-<img src="https://i.imgur.com/aguHSnw.jpg" width="300">
-<img src="https://i.imgur.com/KXQPVa3.jpg" width="300">
-<img src="https://i.imgur.com/mNjKLnb.jpg" width="300">
-<img src="https://i.imgur.com/Ly0cekJ.png" width="300">
-<img src="https://i.imgur.com/jMrZWVQ.png" width="300">
-<img src="https://i.imgur.com/54f4m0z.png" width="300">
-<img src="https://i.imgur.com/bvMzpWZ.png" width="300">
-<img src="https://i.imgur.com/GGGoE3b.png" width="300">
-<img src="https://i.imgur.com/2vxK5Al.png" width="300">
-<img src="https://i.imgur.com/emTT3ML.png" width="300">
-<img src="https://i.imgur.com/xHHdRJM.png" width="300">
-<img src="https://i.imgur.com/aHqumPa.png" width="300">
-<img src="https://i.imgur.com/wsFmwb2.png" width="300">
-
-</details>
-
-<details>
-<summary>General Torso Muscle Anatomy (pose)</summary>
-
-<img src="https://i.imgur.com/CGtEa5F.png" width="400">
-<img src="https://i.imgur.com/i74UGZQ.png" width="400">
-<img src="https://i.imgur.com/Z1Qlcej.png" width="400">
-<img src="https://i.imgur.com/8ACJBdN.png" width="400">
-<img src="https://i.imgur.com/AEuIZba.png" width="400">
-<img src="https://i.imgur.com/gdsI0xg.png" width="400">
-<img src="https://i.imgur.com/dgx5fFt.png" width="400">
-<img src="https://i.imgur.com/Qzbd5vw.png" width="400">
 
 </details>
