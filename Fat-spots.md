@@ -24,7 +24,7 @@ The berast lay on top of the pectoralis mayor and are visibly "one" with them.
 Starts under belly button, lowest square of six pac
 - Abdominal fat pad
 
-# Pelvic region
+# Pelvic Region
 ### Love handles
 Gives illusion of higher hips because the waistline starts earlier
 - Flank fat pad
