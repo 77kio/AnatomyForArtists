@@ -1,4 +1,4 @@
-An anatomy guide for a 3d/2d artists.
+An anatomy guide for a 3d/2d artist's.
 
 Contains:
 - Muscles
