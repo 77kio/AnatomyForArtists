@@ -1,6 +1,6 @@
 ### Home
 - [**Home**](https://github.com/Epicrex/AnatomyForArtists/wiki)
-- [**3D Artists Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) 🡒
+- [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) 🡒
 ### Terms
 - [**Technical Terms**](https://github.com/Epicrex/AnatomyForArtists/wiki/Technical-Terms)
 
