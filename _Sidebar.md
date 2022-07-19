@@ -2,7 +2,7 @@
 - [**Home**](https://github.com/Epicrex/AnatomyForArtists/wiki)
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) 🡒
 ### Terms
-- [**Technical Terms**](https://github.com/Epicrex/AnatomyForArtists/wiki/Technical-Terms)
+- [**Glossary**](https://github.com/Epicrex/AnatomyForArtists/wiki/Technical-Terms)
 
 ### Bones
 - [**Skeleton**](https://github.com/Epicrex/AnatomyForArtists/wiki/Skeleton)
