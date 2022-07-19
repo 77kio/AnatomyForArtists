@@ -1,10 +1,17 @@
 # Intro
 There are 3 things that influence the body type. Bone proportions, fat distribution and how the muscle develop
 
+There are a couple of ways to portray/ think about the shapes. A very common way is to use shape/ fruit name. This however is a very limiting way of thinking about it because 
+There are 3 ways of looking at  body types/ shapes which can also be mixed with each other.
+
+# ⚠ Sort In
+
+
+
 # Resources
 - [FEMALE BODY TYPES marc brunet](https://www.youtube.com/watch?v=Rh1K28FMJuo)
 - [FANTASY BODY TYPES marc brunet](https://www.youtube.com/watch?v=nNtHUZKbP3E)
-# ⚠ Sort In
+
 
 ## Female body shapes
 Hourglass
