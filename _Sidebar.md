@@ -16,5 +16,5 @@
 
 ### Other
 - [**Fat Spots**](https://github.com/Epicrex/AnatomyForArtists/wiki/Fat-spots)
-- [**Veins**](https://github.com/Epicrex/AnatomyForArtists/wiki/Veins)
-- [**Skin Color**](https://github.com/Epicrex/AnatomyForArtists/wiki/Skin-Color)
+- [**⚠ Veins**](https://github.com/Epicrex/AnatomyForArtists/wiki/Veins)
+- [**⚠ Skin Color**](https://github.com/Epicrex/AnatomyForArtists/wiki/Skin-Color)
