@@ -4,7 +4,7 @@ _Note that this anatomy is only a foundation, and an anatomy board of real and d
 
 🡒 Or go back to the overarching [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki) wiki
 
-## Table Of Content
+# Table Of Content
 - Muscles
 - Fat regions
 - Bones
