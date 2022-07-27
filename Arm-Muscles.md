@@ -80,7 +80,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 ## Coracobrachialis [^](#Table-Of-Content)
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
-|_**Coracobrachialis**_|||
+|**Coracobrachialis**|||
 
 <details>
 <summary>Example</summary>
