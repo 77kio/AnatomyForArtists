@@ -1,3 +1,5 @@
+
+
 # Table of Content
 ### Other
 - [Full Arm Anatomy](#full-arm-anatomy-)
@@ -41,8 +43,8 @@
 |MUSCLE PART|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |Deltoid Anterior Head||
-|Deltoid Medial Head||
-|Deltoid Posterior Head||
+|**`Deltoid Medial Head`**||
+|**`Deltoid Posterior Head`**||
 
 <details>
 <summary>Example</summary>
