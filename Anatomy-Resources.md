@@ -8,6 +8,7 @@ Kenhubs on site search isn't that good, so what I often like to do, is add kenhu
 - [Marc Brunet](https://www.youtube.com/c/bluefley00)
 - [Lukas Kutschera](https://www.youtube.com/channel/UChIOHon9KXDp3-S8uAEBdGQ)
 - [Speed Char](https://www.youtube.com/c/SpeedChar)
+- [Julian Khor](https://www.youtube.com/c/juliankhor/videos)
 - [J Hill](https://www.youtube.com/c/artofjhill)
 
 # Anatomy Reference Art
