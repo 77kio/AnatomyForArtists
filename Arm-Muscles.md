@@ -1,6 +1,6 @@
 # Table of Content
 ### Full Arm
-
+- [Full Arm](#full-arm-1-)
 ### Upper Arm
 - [Deltoid](#Deltoid-)
 - [Biceps Brachii](#Biceps-Brachii-)
@@ -10,11 +10,10 @@
 
 
 ### Forearm
-- [](#)
-- [](#)
-- [](#)
+- [Forearm Flexors](#Forearm-Flexors-)
+- [Forearm Extensors](#Forearm-Extensors-)
 
-
+# FULL ARM [^](#Table-Of-Content)
 <details>
 <summary>Arm Muscles</summary>
 
@@ -97,7 +96,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 <img src="https://i.imgur.com/Ng4lvza.jpg" width="600">
 </details>
 
-## Forearm Flexor
+## Forearm Flexors [^](#Table-Of-Content)
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Flexor Carpi Ulnaris (FCU)**_|Between Triceps and Biceps|Bottom of hand far side from thumb|
@@ -108,7 +107,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |_**Pronator Teres (PT)**_|Between Triceps and Biceps|Middle of Brachioradialis|Stays beside the Biceps 
 
 
-## Forearm Extensors
+## Forearm Extensors [^](#Table-Of-Content)
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Brachioradialis (Brr)**_|Between Brachialis and Triceps|Inner side of hand|Brachialis side, bigger one
