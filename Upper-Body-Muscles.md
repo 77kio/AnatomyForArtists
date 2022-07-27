@@ -1,4 +1,14 @@
-# Full Upper Body
+# Table Of Content
+- [Pectoralis Mayor (Pectorals)](#pectoralis-mayor-pectorals-)
+- [Serratus Anterior](#serratus-anterior-)
+- [Rectus Abdominus (Abs)](#rectus-abdominus-abs-)
+- [Obliques](#obliques-)
+- [Trapezius](#trapezius-)
+- [Latisimus Dorsi](#latisimus-dorsi-)
+- [Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor](#infraspinatus-teres-minor-teres-mayor-rhomboid-mayor-)
+- [Links](#)
+
+# Full Upper Body [^](#Table-of-content)
 <details>
 <summary>General Torso Muscle Anatomy (relaxed)</summary>
 
@@ -33,7 +43,7 @@
 
 </details>
 
-# Pectoralis Mayor (Pectorals)
+# Pectoralis Mayor (Pectorals) [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -62,7 +72,7 @@
 
 </details>
 
-# Serratus Anterior
+# Serratus Anterior [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -91,7 +101,7 @@
 
 </details>
 
-# Rectus Abdominus (Abs)
+# Rectus Abdominus (Abs) [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -101,7 +111,7 @@
 
 </details>
 
-# Obliques
+# Obliques [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -116,7 +126,7 @@ External Oblique
 
 </details>
 
-# Trapezius
+# Trapezius [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -154,7 +164,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
-# Latisimus Dorsi
+# Latisimus Dorsi [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -175,7 +185,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 </details>
 
-# Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor
+# Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
 
 <details>
 <summary>Anatomy</summary>
@@ -212,3 +222,5 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/340KSe1.png" width="340">
 
 </details>
+
+# Links [^](#Table-of-content)
