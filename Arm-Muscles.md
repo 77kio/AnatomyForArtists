@@ -1,6 +1,7 @@
 # Table of Content
-### Full Arm
-- [Full Arm](#full-arm-1-)
+### Other
+- [Full Arm](#full-arm-)
+- [Links](#Links-)
 ### Upper Arm
 - [Deltoid](#Deltoid-)
 - [Biceps Brachii](#Biceps-Brachii-)
@@ -122,7 +123,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |-|-|-|-
 |_**Anconeus (A)**_|||Below Triceps
 
-# Links
+# Links [^](#Table-Of-Content)
 ### Video
 - https://www.youtube.com/watch?v=Ztk8VfqMJHw
 ### Other
