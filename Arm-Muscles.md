@@ -1,6 +1,6 @@
 # Table of Content
 ### Other
-- [Full Arm](#full-arm-)
+- [Full Arm Anatomy](#full-arm-anatomy-)
 - [Links](#Links-)
 ### Upper Arm
 - [Deltoid](#Deltoid-)
@@ -14,7 +14,7 @@
 - [Forearm Flexors](#Forearm-Flexors-)
 - [Forearm Extensors](#Forearm-Extensors-)
 
-# FULL ARM [^](#Table-Of-Content)
+# Full Arm Anatomy[^](#Table-Of-Content)
 <details>
 <summary>Arm Muscles</summary>
 
