@@ -3,7 +3,7 @@
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) 🡒
 
 ### Resources
-- [Anatomy Resources](https://github.com/Epicrex/AnatomyForArtists/wiki/anatomy-resources)
+- [**Anatomy Resources**](https://github.com/Epicrex/AnatomyForArtists/wiki/anatomy-resources)
 
 ### Terms
 - [**Glossary**](https://github.com/Epicrex/AnatomyForArtists/wiki/Technical-Terms)
