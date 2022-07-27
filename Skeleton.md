@@ -1,4 +1,15 @@
-# Full Body
+# Table Of Content
+- [Full Body](#full-body-)
+- [Bony Landmarks](#bony-landmarks-)
+- [Head Bones](#head-bones-)
+- [Torso Bones](#torso-bones-)
+- [Arm Bones](#arm-bones-)
+- [Leg Bones](#leg-bones-)
+- [Hand Bones](#hand-bones-)
+- [Foot Bones](#foot-bones-)
+- [Links](#links-)
+
+# Full Body [^](#Table-of-content)
 <details>
 <summary>Full Skeleton</summary>
 
@@ -16,8 +27,8 @@
 <img src="https://i.imgur.com/pXNv34K.png" width="600">
 </details>
 
-# Bones visible at surface level (Bony Landmarks)
-Bony landmarks are essential for placing muscles correctly as well as often being visible
+# Bony Landmarks [^](#Table-of-content)
+Bony landmarks are essential for placing muscles correctly as well as often being visible at surface level.
 
 - Clavicle
 - C7 and a bit of T1 vertebrae
@@ -42,7 +53,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 </details>
 
 
-# Head bones
+# Head Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Frontal Bone|Top front head bone
@@ -52,7 +63,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Parietal bone|Top back head bone
 |Occipital|Bot back head bone
 
-# Torso
+# Torso Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Clavicle|
@@ -78,7 +89,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 
 </details>
 
-# Arm
+# Arm Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Shoulder joint|
@@ -93,7 +104,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 
 </details>
 
-# Leg
+# Leg Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Hip joint|
@@ -102,14 +113,14 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Fibula|
 |Tibia|Connects to the **Tarsal**(Foot), the **Fibula** rotates around the **Tibia** when rotating the ankle
 
-# Hand
+# Hand Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Carpals|Connects to the **Radius**, 8 bones
 |Metacarpals|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The Fingers, 2/3 bones per part for a total of 14 bones
 
-# Foot
+# Foot Bones [^](#Table-of-content)
 |Bone|Info
 |:-:|:-:
 |Tarsal|Connects to the **Tibia**, 7 bones, important ones being **Talus** and **Calcaneus**
@@ -117,5 +128,5 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Phalanges|The toes, 2/3 Bones per part
 
 
-# Links
+# Links [^](#Table-of-content)
 https://mayfieldclinic.com/pe-anatspine.htm
