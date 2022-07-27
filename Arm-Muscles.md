@@ -1,3 +1,20 @@
+# Table of Content
+### Full Arm
+
+### Upper Arm
+- [Deltoid](#Deltoid-)
+- [Biceps Brachii](#Biceps-Brachii-)
+- [Brachialis](#Brachialis-)
+- [Triceps Brachii](#Triceps-Brachii-)
+- [Coracobrachialis](#Coracobrachialis-)
+
+
+### Forearm
+- [](#)
+- [](#)
+- [](#)
+
+
 <details>
 <summary>Arm Muscles</summary>
 
@@ -15,9 +32,9 @@
 
 </details>
 
-# Upper Arm
+# UPPER ARM
 
-## Deltoid
+## Deltoid [^](#Table-Of-Content)
 - Deltoid arches to the front, the sharp tip going backwards
 - The Deltoid isn't round but has a bump in the middle
 
@@ -37,7 +54,7 @@
 </details>
 
 
-## Biceps Brachii
+## Biceps Brachii [^](#Table-Of-Content)
 The Biceps consists of two heads that unite at the bottom
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
@@ -45,12 +62,12 @@ The Biceps consists of two heads that unite at the bottom
 |_**Biceps Short Head (BB)**_|Scapula coracoid process|Radius tuberosity|More towards the center
 |_**Biceps Long Head (BB)**_|Socket of the Scapula|Radius tuberosity|
 
-## Brachialis
+## Brachialis [^](#Table-Of-Content)
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Brachialis**_|||
 
-## Triceps Brachii
+## Triceps Brachii [^](#Table-Of-Content)
 The Triceps consists of three heads that unite at the bottom into the Triceps tendon
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
@@ -60,7 +77,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 |_**Triceps Medial Head (T)**_|Humerus|Olecranon (Elbow)|
 |_**Triceps Tendon (T)**_|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
 
-## Coracobrachialis
+## Coracobrachialis [^](#Table-Of-Content)
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |_**Coracobrachialis**_|||
@@ -71,7 +88,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 <img src="https://i.imgur.com/2beqfTb.png" width="600">
 </details>
 
-# Forearm
+# FOREARM
 The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps/ Brachialis** and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
 <details>
 <summary>Flexor and Extensor borders</summary>
