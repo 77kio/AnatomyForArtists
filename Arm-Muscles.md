@@ -105,7 +105,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |**Palmaris Longus** (PL)|Between Triceps and Biceps|Hand Plam|Barely visible
 |**Flexor Carpi Radialis** (FCR)|Between Triceps and Biceps|Bottom of hand close side to thumb|
 |-|-|-|-
-|**Pronator Teres** (PT)|Between Triceps and Biceps|Middle of Brachioradialis|Stays beside the Biceps 
+|**Pronator Teres** (PT)|Between Triceps and Biceps|Middle of Brachioradialis|Stays beside the Bicep
 
 
 ## Forearm Extensors [^](#Table-Of-Content)
