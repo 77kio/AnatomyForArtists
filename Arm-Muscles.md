@@ -12,7 +12,21 @@
 
 ### Forearm
 - [Forearm Flexors](#Forearm-Flexors-)
+   - Flexor Carpi Ulnaris
+   - Flexor Digitorum Superficialis
+   - Palmaris Longus
+   - Flexor Carpi Radialis
+   - Pronator Teres
+
 - [Forearm Extensors](#Forearm-Extensors-)
+   - Brachioradialis
+   - Extensor Carpi Radialis Longus 
+   - Extensor Carpi Radialis Brevis
+   - Anatomical Snuffbox
+   - Extensor Digitorum
+   - Extensor Digitorum Minimi & Extensor Carpi Ulnaris
+   - Anconeus
+
 
 # Full Arm Anatomy [^](#Table-Of-Content)
 <details>
