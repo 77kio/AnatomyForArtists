@@ -138,7 +138,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |**Anconeus** (A)|||Below Triceps
 
 # Links [^](#Table-Of-Content)
-### Video
+### Videos
 - [Sculpting Arm With Every Muscle As Separate SubTool](https://www.youtube.com/watch?v=Ztk8VfqMJHw) (Lukas Kutschera)
 - [Sculpting Arm](https://www.youtube.com/watch?v=HvpxLRB5bdU) (Julian Khor)
 - [Sculpting Arm](https://www.youtube.com/watch?v=I9Sk4QhHSuY) (SpeedChar)
