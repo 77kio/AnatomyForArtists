@@ -104,10 +104,11 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 
 # FOREARM
 The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps/ Brachialis** and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
-<details>
-<summary>Flexor and Extensor borders</summary>
 
 <img src="https://i.imgur.com/p4CYanu.jpg" width="600">
+<details>
+<summary>Other Flexor and Extensor Border Examples</summary>
+
 <img src="https://i.imgur.com/Ng4lvza.jpg" width="600">
 </details>
 
