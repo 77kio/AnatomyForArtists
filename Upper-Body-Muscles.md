@@ -224,3 +224,11 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 # Links [^](#Table-of-content)
+- [Male - Muscles As Separate SubTools](https://www.youtube.com/watch?v=Wt9tlnoKihQ) (Lukas Kutschera)
+- [Male](https://www.youtube.com/watch?v=EpGfyF8BFus) (Julian Khor)
+- [Male - Speed](https://www.youtube.com/watch?v=69AC3O0_ob8)
+- [Male](https://www.youtube.com/watch?v=M58ykeplZL0)
+- [Female - Pose](https://www.youtube.com/watch?v=ot-6OnIbEmA)
+- [2D - Female](https://www.youtube.com/watch?v=s9imqdlGPQc) (David Finch)
+- [2D - Female](https://www.youtube.com/watch?v=pxXw3xScVWo)
+- [Clay - Female - Pose](https://www.youtube.com/watch?v=p7r_4WL7bYk)
