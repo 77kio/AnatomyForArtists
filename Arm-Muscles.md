@@ -139,4 +139,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 
 # Links [^](#Table-Of-Content)
 ### Video
-- https://www.youtube.com/watch?v=Ztk8VfqMJHw
+- [Sculpting Arm With Every Muscle As Separate SubTool](https://www.youtube.com/watch?v=Ztk8VfqMJHw) (Lukas Kutschera)
+- [Sculpting Arm](https://www.youtube.com/watch?v=HvpxLRB5bdU) (Julian Khor)
+- [Sculpting Arm](https://www.youtube.com/watch?v=I9Sk4QhHSuY) (SpeedChar)
+- [Sculpting Very Strong Arm](https://www.youtube.com/watch?v=i9chin-AdfY)
