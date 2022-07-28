@@ -126,4 +126,3 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 # Links [^](#Table-Of-Content)
 ### Video
 - https://www.youtube.com/watch?v=Ztk8VfqMJHw
-### Other
