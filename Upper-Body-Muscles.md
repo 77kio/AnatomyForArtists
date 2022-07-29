@@ -10,7 +10,7 @@
 
 # Full Upper Body [^](#Table-of-content)
 <details>
-<summary>General Torso Muscle Anatomy (relaxed)</summary>
+<summary>General Torso Muscle Anatomy</summary>
 
 <img src="https://i.imgur.com/8WEPeQo.jpg" width="300">
 <img src="https://i.imgur.com/aguHSnw.jpg" width="300">
@@ -30,8 +30,7 @@
 </details>
 
 <details>
-<summary>General Torso Muscle Anatomy (pose)</summary>
-
+<summary>Upper Body Muscles From Multiple sides and poses</summary>
 <img src="https://i.imgur.com/CGtEa5F.png" width="400">
 <img src="https://i.imgur.com/i74UGZQ.png" width="400">
 <img src="https://i.imgur.com/Z1Qlcej.png" width="400">
@@ -45,17 +44,14 @@
 
 # Pectoralis Mayor (Pectorals) [^](#Table-of-content)
 
-<details>
-<summary>Anatomy</summary>
-
 <img src="https://i.imgur.com/sk396rp.png" width="600">
+
+<details>
+<summary>More Pectoralis Mayor Anatomy</summary>
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 <img src="https://i.imgur.com/K6Yx1Bw.png" width="800">
 
 </details>
-
-<details>
-<summary>Info</summary>
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -70,14 +66,11 @@
 |Arm flexion
 |Arm extension
 
-</details>
-
 # Serratus Anterior [^](#Table-of-content)
 
-<details>
-<summary>Anatomy</summary>
-
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
+<details>
+<summary>More Serratus Anterior Anatomy</summary>
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
 <img src="https://i.imgur.com/rUWoHJq.png" width="230">
@@ -88,8 +81,6 @@
 
 </details>
 
-<details>
-<summary>Info</summary>
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -99,22 +90,21 @@
 |:-:
 |Scapula(shoulder) movement/ rotation
 
-</details>
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
+<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
+
 <details>
-<summary>Anatomy</summary>
+<summary>More Rectus Abdominus Anatomy</summary>
 
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
-<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
 </details>
 
 # Obliques [^](#Table-of-content)
 
-<details>
-<summary>Anatomy</summary>
+
 
 Internal Oblique
 
@@ -124,15 +114,19 @@ External Oblique
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
+<details>
+<summary>More Obliques Anatomy</summary>
+
 </details>
 
 # Trapezius [^](#Table-of-content)
 
-<details>
-<summary>Anatomy</summary>
-
 <img src="https://i.imgur.com/hBnYIUk.png" width="200">
 <img src="https://i.imgur.com/mzeNNVR.png" width="250">
+
+<details>
+<summary>More Trapezius Anatomy</summary>
+
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
 <img src="https://i.imgur.com/XDR0oVa.jpg" width="300">
 <img src="https://i.imgur.com/sihTo2r.jpg" width="500">
@@ -147,8 +141,6 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
-<details>
-<summary>Info</summary>
 
 |ORIGIN|INSERTION
 |:-:|:-:
@@ -162,18 +154,10 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Stand straight
 |Shoulder movement/ scalpula control
 
-</details>
 
 # Latisimus Dorsi [^](#Table-of-content)
 
-<details>
-<summary>Anatomy</summary>
-
-<img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/kCY791a.png" width="230">
-<img src="https://i.imgur.com/5P7PBBx.png" width="340">
-<img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
-<img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
 
 The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
 
@@ -182,6 +166,16 @@ The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
 The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
+
+<details>
+<summary>Anatomy</summary>
+
+<img src="https://i.imgur.com/ACrOdqt.png" width="250">
+
+<img src="https://i.imgur.com/5P7PBBx.png" width="340">
+<img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
+<img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
+
 
 </details>
 
@@ -206,8 +200,6 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 </details>
 
-<details>
-<summary>Info</summary>
 
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
@@ -221,7 +213,6 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/epjPagM.png" width="340">
 <img src="https://i.imgur.com/340KSe1.png" width="340">
 
-</details>
 
 # Links [^](#Table-of-content)
 - [Male - Muscles As Separate SubTools](https://www.youtube.com/watch?v=Wt9tlnoKihQ) (Lukas Kutschera)
