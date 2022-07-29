@@ -66,6 +66,8 @@
 |Arm flexion
 |Arm extension
 
+Remembering help: `Pecs`
+
 # Serratus Anterior [^](#Table-of-content)
 
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
@@ -90,6 +92,7 @@
 |:-:
 |Scapula(shoulder) movement/ rotation
 
+Remembering help: `Serrated Blade`
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
@@ -101,6 +104,8 @@
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 
 </details>
+
+Remembering help: `Abdominal Area`, `Rectus = Upright`
 
 # Obliques [^](#Table-of-content)
 
@@ -175,9 +180,9 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
-
-
 </details>
+
+Remembering help: `Sharks have a dorsal fin in this area`
 
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
 
