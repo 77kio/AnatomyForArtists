@@ -44,7 +44,7 @@
 
 # Pectoralis Mayor (Pectorals) [^](#Table-of-content)
 
-<img src="https://i.imgur.com/sk396rp.png" width="600">
+<img src="https://i.imgur.com/sk396rp.png" width="650">
 
 <details>
 <summary>More Pectoralis Mayor Anatomy</summary>
@@ -84,7 +84,7 @@
 
 |ORIGIN|INSERTION
 |:-:|:-:
-|Ribs (1-8/10)|Scapula
+|Ribs (1 - 8/10)|Scapula
 
 |FUNCTION
 |:-:
@@ -121,8 +121,8 @@ External Oblique
 
 # Trapezius [^](#Table-of-content)
 
-<img src="https://i.imgur.com/hBnYIUk.png" width="200">
-<img src="https://i.imgur.com/mzeNNVR.png" width="250">
+<img src="https://i.imgur.com/hBnYIUk.png" width="250">
+<img src="https://i.imgur.com/mzeNNVR.png" width="400">
 
 <details>
 <summary>More Trapezius Anatomy</summary>
@@ -168,7 +168,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
 <details>
-<summary>Anatomy</summary>
+<summary>More Latisimus Dorsi Anatomy</summary>
 
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 
