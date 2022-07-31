@@ -54,7 +54,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 
 
 # Head Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Frontal Bone|Top front head bone
 |Maxilla|Upper jaw bone
@@ -64,7 +64,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Occipital|Bot back head bone
 
 # Torso Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Clavicle|
 |Scapula|
@@ -90,7 +90,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 </details>
 
 # Arm Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Shoulder joint|
 |Humerus|
@@ -105,7 +105,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 </details>
 
 # Leg Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Hip joint|
 |Femur|
@@ -114,14 +114,14 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Tibia|Connects to the **Tarsal**(Foot), the **Fibula** rotates around the **Tibia** when rotating the ankle
 
 # Hand Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Carpals|Connects to the **Radius**, 8 bones
 |Metacarpals|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
 |Phalanges|The Fingers, 2/3 bones per part for a total of 14 bones
 
 # Foot Bones [^](#Table-of-content)
-|Bone|Info
+|🦴 Bones|ℹ Info
 |:-:|:-:
 |Tarsal|Connects to the **Tibia**, 7 bones, important ones being **Talus** and **Calcaneus**
 |Metatarsal|Phalanges extension which isn't separately visible, 1 bone per part for a total of 5 bones
