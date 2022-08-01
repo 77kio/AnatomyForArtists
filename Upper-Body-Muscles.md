@@ -4,7 +4,7 @@
 - [Rectus Abdominus (Abs)](#rectus-abdominus-abs-)
 - [Obliques](#obliques-)
 - [Trapezius](#trapezius-)
-- [Latisimus Dorsi](#latisimus-dorsi-)
+- [Latisimus Dorsi (Lats)](#latisimus-dorsi-lats-)
 - [Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor](#infraspinatus-teres-minor-teres-mayor-rhomboid-mayor-)
 - [Links](#)
 
@@ -53,20 +53,20 @@
 
 </details>
 
-|ORIGIN|INSERTION
-|:-:|:-:
-|The clavicular(top) part connects to the clavicle|Humerus tuberosity 
-|The sternocostal(mid) part inner connects to the sternum
-|The abdominal(bot) part connects to the top of the rectus abdominus
+The `Pectoralis Mayor` is split into `3 parts`.
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|_Pectoralis Mayor_ **Clavicular Part** (top)|Clavicle|Humerus Tuberosity 
+|_Pectoralis Mayor_ **Sternocostal Part** (mid)|Sternum
+|_Pectoralis Mayor_ **Abdominal Part** (bot)|Top of the Rectus Abdominus
 
-|FUNCTION
-|:-:
-|Arm abduction
-|Arm internal rotation
-|Arm flexion
-|Arm extension
+### FUNCTION
+- Arm abduction
+- Arm internal rotation
+- Arm flexion
+- Arm extension
 
-Remembering help: `Pecs`
+**Remembering help**: `Pecs`
 
 # Serratus Anterior [^](#Table-of-content)
 
@@ -84,15 +84,14 @@ Remembering help: `Pecs`
 </details>
 
 
-|ORIGIN|INSERTION
-|:-:|:-:
-|Ribs (1 - 8/10)|Scapula
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|Serratus Anterior|Ribs (1 - 8/10)|Scapula
 
-|FUNCTION
-|:-:
-|Scapula(shoulder) movement/ rotation
+### FUNCTION
+- Scapula (shoulder) movement/ rotation
 
-Remembering help: `Serrated Blade`
+**Remembering help**: `Serrated Blade`
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
@@ -108,8 +107,6 @@ Remembering help: `Serrated Blade`
 Remembering help: `Abdominal Area`, `Rectus = Upright`
 
 # Obliques [^](#Table-of-content)
-
-
 
 Internal Oblique
 
@@ -160,7 +157,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |Shoulder movement/ scalpula control
 
 
-# Latisimus Dorsi [^](#Table-of-content)
+# Latisimus Dorsi (Lats) [^](#Table-of-content)
 
 <img src="https://i.imgur.com/kCY791a.png" width="230">
 
