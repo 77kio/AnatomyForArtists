@@ -179,8 +179,8 @@ The `Trapezius` is split into `3 parts`.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |_Trapezius_ **Descending part** (upper)|Superior Nuchal Line (Lower Back of Skull)|Lateral Third of Clavicle (Outer part of Clavicle)
-|_Trapezius_ **Transverse part** (middle)|C1-T3 Ligaments (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
-|_Trapezius_ **Ascending part** (lower)|T4-T12 Ligaments (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
+|_Trapezius_ **Transverse part** (middle)|C1-T3 Vertebrae (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
+|_Trapezius_ **Ascending part** (lower)|T4-T12 Vertebrae (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
 
 
 ### Functions
@@ -216,7 +216,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 ### Insertions/ Origins
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
-|
+| |T7-T12 vertebrae () ) (Middle/ Cervical Spine)|
 
 
 ### Functions
