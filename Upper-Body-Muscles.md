@@ -213,21 +213,11 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 
-### Insertions/ Origins In Short
+### Insertions/ Origins
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |
 
-### Insertions/ Origins In More Detail
-
-The `Latisimus Dorsi` is split into `4 parts`.
-
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|_Latisimus Dorsi_ **Vertebral part**|
-|_Latisimus Dorsi_ **Iliac part**|
-|_Latisimus Dorsi_ **Costal part**|
-|_Latisimus Dorsi_ **Scapular part**|
 
 ### Functions
 
