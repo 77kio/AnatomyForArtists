@@ -56,7 +56,7 @@
 # In Short
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
-|**Pectoralis Mayor**|Clavicle, Sternum, Top of the Rectus Abdominus|Upper part of Humerus (Upper Arm Bone)
+|**Pectoralis Mayor**|Clavicle, Sternum, Top of the Rectus Abdominus|Upper part of Humerus
 
 
 # In More Detail
