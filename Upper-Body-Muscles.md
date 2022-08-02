@@ -216,7 +216,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 ### Insertions/ Origins
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
-| |T7-T12 vertebrae () ) (Middle/ Cervical Spine)|
+| |T7-T12 vertebrae () ) (Middle/ Thoracic Spine)|
 
 
 ### Functions
