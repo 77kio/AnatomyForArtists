@@ -53,6 +53,12 @@
 
 </details>
 
+# In Short
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+
+
+# In More Detail
 The `Pectoralis Mayor` is split into `3 parts`.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
@@ -143,18 +149,26 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
+### In Short
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|**Trapezius**|Lower Back of Skull, Spine|Clavicle, Scapula
 
-|ORIGIN|INSERTION
-|:-:|:-:
-|Superior nuchal line (head)|Clavicle
-|Spine ligaments|Scalpula|Scalpula
+### In More Detail
+The `Trapezius` is split into `3 parts`.
 
-|FUNCTION
-|:-:
-|Posture
-|Head up down and turn
-|Stand straight
-|Shoulder movement/ scalpula control
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|_Trapezius_ **Descending part** (upper)|Superior Nuchal Line (Lower Back of Skull)|Lateral Third of Clavicle (Outer part of Clavicle)
+|_Trapezius_ **Transverse part ** (middle)|C1-T3 Ligaments (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
+|_Trapezius_ **Ascending part** (lower)|T4-T12 Ligaments (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
+
+
+### FUNCTION
+- Posture
+- Head up down and turn
+- Stand straight
+- Shoulder movement/ Scalpula control
 
 
 # Latisimus Dorsi (Lats) [^](#Table-of-content)
