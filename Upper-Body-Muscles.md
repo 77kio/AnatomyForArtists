@@ -117,30 +117,34 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |Rectus Abdominus|Pubic Symphysis and Pubic Crest (Center of Pubis)|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
 
 ### Functions
-- To move the body between the ribcage and the pelvis
-- Trunk/ Torso flexion
+- Moves the body between the ribcage and the pelvis
+- Trunk flexion
 
 Remembering help: `Abdominal Area`, `Rectus = Upright`
 
 
 # Obliques [^](#Table-of-content)
 
-Internal Oblique
+**Internal Obliques**
 
 <img src="https://i.imgur.com/omZfDtQ.png" width="500">
 
-External Oblique
+**External Obliques**
 
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
 <details>
 <summary>More Obliques Anatomy</summary>
-
 </details>
-### Insertions/ Origins
+
+### External Obliques Insertions/ Origins
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|External Obliques|External surfaces of ribs 5-12|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest 
 
 ### Functions
-
+- Trunk rotation
+- Trunk flexion
 
 # Trapezius [^](#Table-of-content)
 
@@ -186,6 +190,7 @@ The `Trapezius` is split into `3 parts`.
 - Shoulder movement/ Scalpula control
 
 
+
 # Latisimus Dorsi (Lats) [^](#Table-of-content)
 
 <img src="https://i.imgur.com/kCY791a.png" width="230">
@@ -198,17 +203,37 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 <img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
 
+
 <details>
 <summary>More Latisimus Dorsi Anatomy</summary>
-
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
-
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
 </details>
 
+
+### Insertions/ Origins In Short
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|
+
+### Insertions/ Origins In More Detail
+
+The `Latisimus Dorsi` is split into `4 parts`.
+
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|_Latisimus Dorsi_ **Vertebral part**|
+|_Latisimus Dorsi_ **Iliac part**|
+|_Latisimus Dorsi_ **Costal part**|
+|_Latisimus Dorsi_ **Scapular part**|
+
+### Functions
+
 Remembering help: `Sharks have a dorsal fin in this area`
+
+
 
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
 
