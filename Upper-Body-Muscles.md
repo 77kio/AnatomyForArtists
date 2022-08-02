@@ -53,13 +53,13 @@
 
 </details>
 
-# In Short
+### Insertions/ Origins In Short
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |**Pectoralis Mayor**|Clavicle, Sternum, Top of the Rectus Abdominus|Upper part of Humerus
 
 
-# In More Detail
+### Insertions/ Origins In More Detail
 The `Pectoralis Mayor` is split into `3 parts`.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
@@ -67,7 +67,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |_Pectoralis Mayor_ **Sternocostal part** (mid)|Anterior Surface of Sternum (Middle of Sternum)|The Tubercle Grove of the Top of the Humerus Shaft
 |_Pectoralis Mayor_ **Abdominal part** (bot)|Top of the Rectus Abdominus|The Tubercle Grove of the Top of the Humerus Shaft
 
-### FUNCTION
+### Functions
 - Arm abduction
 - Arm internal rotation
 - Arm flexion
@@ -90,12 +90,12 @@ The `Pectoralis Mayor` is split into `3 parts`.
 
 </details>
 
-
+### Insertions/ Origins
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |Serratus Anterior|Ribs (1 - 8/10)|Scapula
 
-### FUNCTION
+### Functions
 - Scapula (shoulder) movement/ rotation
 
 **Remembering help**: `Serrated Blade`
@@ -111,7 +111,17 @@ The `Pectoralis Mayor` is split into `3 parts`.
 
 </details>
 
+### Insertions/ Origins
+|MUSCLE|ORIGIN|INSERTION
+|:-:|:-:|:-:
+|Rectus Abdominus|Pubic Symphysis and Pubic Crest (Center of Pubis)|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
+
+### Functions
+- To move the body between the ribcage and the pelvis
+- Trunk/ Torso flexion
+
 Remembering help: `Abdominal Area`, `Rectus = Upright`
+
 
 # Obliques [^](#Table-of-content)
 
@@ -127,6 +137,10 @@ External Oblique
 <summary>More Obliques Anatomy</summary>
 
 </details>
+### Insertions/ Origins
+
+### Functions
+
 
 # Trapezius [^](#Table-of-content)
 
@@ -150,12 +164,12 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
-### In Short
+### Insertions/ Origins In Short
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |**Trapezius**|Lower Back of Skull, Spine|Clavicle, Scapula
 
-### In More Detail
+### Insertions/ Origins In More Detail
 The `Trapezius` is split into `3 parts`.
 
 |MUSCLE|ORIGIN|INSERTION
@@ -165,7 +179,7 @@ The `Trapezius` is split into `3 parts`.
 |_Trapezius_ **Ascending part** (lower)|T4-T12 Ligaments (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
 
 
-### FUNCTION
+### Functions
 - Posture
 - Head up down and turn
 - Stand straight
@@ -217,7 +231,7 @@ Remembering help: `Sharks have a dorsal fin in this area`
 
 </details>
 
-
+### Insertions/ Origins
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |Infraspinatus|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Humerus Tubercle|Follows the Scapula Spine
