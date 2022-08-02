@@ -160,7 +160,7 @@ The `Trapezius` is split into `3 parts`.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |_Trapezius_ **Descending part** (upper)|Superior Nuchal Line (Lower Back of Skull)|Lateral Third of Clavicle (Outer part of Clavicle)
-|_Trapezius_ **Transverse part ** (middle)|C1-T3 Ligaments (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
+|_Trapezius_ **Transverse part** (middle)|C1-T3 Ligaments (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
 |_Trapezius_ **Ascending part** (lower)|T4-T12 Ligaments (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
 
 
