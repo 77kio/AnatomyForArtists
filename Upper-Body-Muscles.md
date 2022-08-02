@@ -63,9 +63,9 @@
 The `Pectoralis Mayor` is split into `3 parts`.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
-|_Pectoralis Mayor_ **Clavicular part** (top)|Medial(Inner) half of Clavicle|Humerus Tuberosity 
-|_Pectoralis Mayor_ **Sternocostal part** (mid)|Anterior Surface of Sternum (Middle of Sternum)|Humerus Tuberosity 
-|_Pectoralis Mayor_ **Abdominal part** (bot)|Top of the Rectus Abdominus|Humerus Tuberosity 
+|_Pectoralis Mayor_ **Clavicular part** (top)|Medial(Inner) half of Clavicle|The Tubercle Grove of the Top of the Humerus Shaft
+|_Pectoralis Mayor_ **Sternocostal part** (mid)|Anterior Surface of Sternum (Middle of Sternum)|The Tubercle Grove of the Top of the Humerus Shaft
+|_Pectoralis Mayor_ **Abdominal part** (bot)|Top of the Rectus Abdominus|The Tubercle Grove of the Top of the Humerus Shaft
 
 ### FUNCTION
 - Arm abduction
