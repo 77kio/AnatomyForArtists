@@ -235,8 +235,24 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
 
+<img src="https://i.imgur.com/H7EbEZM.png" width="340">
+
+Infraspinatus
+
+<img src="https://i.imgur.com/F9JAj5s.png" width="340">
+
+Teres Minor
+
+<img src="https://i.imgur.com/epjPagM.png" width="340">
+
+Teres Mayor
+
+<img src="https://i.imgur.com/340KSe1.png" width="340">
+
+Rhomboid Mayor
+
 <details>
-<summary>Anatomy</summary>
+<summary>More Infraspinatus, Teres Minor, Teres Mayor and Rhomboid Mayor Anatomy</summary>
 
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
@@ -255,18 +271,14 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 </details>
 
 ### Insertions/ Origins
+The **Rhomboid Mayor** can only be rarely seen, because it hides behind the mighty **Trapezius** and is only seen allot when the arm rotates upwards.
+
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |Infraspinatus|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Humerus Tubercle|Follows the Scapula Spine
 |Teres Minor|Lateral border (Scapula)|Humerus Tubercle|Smallest
 |Teres Mayor|Inferior Angle (Scapula)|Humerus Front|
 |Rhomboid Mayor|Medial Border (Scapula)|Vertebrae (T2-T5)|Only Visible when arm rotates up or forward
-
-<img src="https://i.imgur.com/H7EbEZM.png" width="340">
-<img src="https://i.imgur.com/F9JAj5s.png" width="340">
-<img src="https://i.imgur.com/epjPagM.png" width="340">
-<img src="https://i.imgur.com/340KSe1.png" width="340">
-
 
 # Links [^](#Table-of-content)
 - [Male - Muscles As Separate SubTools](https://www.youtube.com/watch?v=Wt9tlnoKihQ) (Lukas Kutschera)
