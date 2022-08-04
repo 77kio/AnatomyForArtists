@@ -52,8 +52,8 @@ Note that these aren't all the arm muscles, they are however the only important 
 # UPPER ARM [^](#Table-Of-Content)
 
 ## Deltoid [^](#Table-Of-Content)
-- Deltoid arches to the front, the sharp tip going backwards
-- The Deltoid isn't round but has a bump in the middle
+- The **Deltoid** arches to the front, the sharp tip going backwards
+- The **Deltoid** isn't round but has a bump in the middle
 
 |MUSCLE PART|ORIGIN|INSERTION
 |:-:|:-:|:-:
