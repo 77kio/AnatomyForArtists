@@ -65,20 +65,20 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 |Occipital|Bot back head bone
 
 # Torso Bones [^](#Table-of-content)
-|🦴 Bones|ℹ Info
-|:-:|:-:
-|Clavicle|
-|Scapula|
-|Sternum|Consists of two parts **Sternal Manubriumat** the top and the **Sternum**
-|Ribcage|12 Ribs per side(24), connects to the **Thoracic Spine** region(T1 - T12)
-|-|-
-|Spine|33 vertebrae/bones split into 5 regions: **Cervical**(C1-C7), **Thoracic**(T1-T12), **Lumbar**(L1-L5), **Sacrum**, and the **Coccyx**. Only 24 are movable, the vertebrae in the Sacrum and Coccyx regions are fused. The top vertebrae are **Atlas** followed by **Axis** which are important for head movement.
-|Sacrum|The connection point between **Spine** and **Ilium**. The connection area is called **Sacroiliac joint**. A part of the **Spine**
-|Coccyx bone|The human tail leftover. A part of the **Spine**
-|-|-
-|Ilium/Iliac|
-|Pubis|Made of 2 parts, the **Pubic bone** and the **Pubic Symphysis** at the tip
-|Ischium|
+|🦴 Bones|Simple Description|ℹ Info
+|:-:|:-:|:-:
+|Clavicle||
+|Scapula|Shoulder bone|
+|Sternum|Front center of Ribcage|Consists of two parts **Sternal Manubriumat** the top and the **Sternum**
+|Ribcage||12 Ribs per side(24), connects to the **Thoracic Spine** region(T1 - T12)
+|-|-|-
+|Spine||33 vertebrae/bones split into 5 regions: **Cervical**(C1-C7), **Thoracic**(T1-T12), **Lumbar**(L1-L5), **Sacrum**, and the **Coccyx**. Only 24 are movable, the vertebrae in the Sacrum and Coccyx regions are fused. The top vertebrae are **Atlas** followed by **Axis** which are important for head movement.
+|Sacrum|Human tail remain|The connection point between **Spine** and **Ilium**. The connection area is called **Sacroiliac joint**. A part of the **Spine**
+|Coccyx bone|Human tail remain tip|The human tail leftover. A part of the **Spine**
+|-|-|-
+|Ilium/Iliac||
+|Pubis|Private area|Made of 2 parts, the **Pubic bone** and the **Pubic Symphysis** at the tip
+|Ischium||
 
 
 
@@ -91,13 +91,13 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 </details>
 
 # Arm Bones [^](#Table-of-content)
-|🦴 Bones|ℹ Info
-|:-:|:-:
+|🦴 Bones|Simple Description|ℹ Info
+|:-:|:-:|:-:
 |Shoulder joint|
-|Humerus|
-|Elbow|
-|Ulna|When rotating the wrist the **Ulna** doesn't rotate
-|Radius|Connects to the **Carpals**(Hand), the **Radius** rotates around the **Ulna** when rotating the wrist
+|Humerus|Upper arm bone
+|Elbow joint|
+|Ulna|One of the two lower arm bones|When rotating the wrist the **Ulna** doesn't rotate
+|Radius|One of the two lower arm bones|Connects to the **Carpals**(Hand), the **Radius** rotates around the **Ulna** when rotating the wrist
 <details>
 <summary>Forarm rotation</summary>
 
