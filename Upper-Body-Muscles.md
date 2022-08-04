@@ -137,7 +137,11 @@ Remembering help: `Abdominal Area`, `Rectus = Upright`
 <summary>More Obliques Anatomy</summary>
 </details>
 
+
 ### External Obliques Insertions/ Origins
+It's good to know about the **Internal Obliques** they can however not be seen because the **External Obliques** cover them. This is also why the **External Obliques** are often simply called **Obliques**.
+
+The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the part of the **External Obliques** that cover the **Rectus Abdominus** is however the thinnest and thus not really obscuring the **Rectus Abdominus** in mid/ stronger bodies.
 |MUSCLE|ORIGIN|INSERTION
 |:-:|:-:|:-:
 |External Obliques|External surfaces of ribs 5-12|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest 
