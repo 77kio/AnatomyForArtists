@@ -1,4 +1,7 @@
 # Table of Content
+
+Note that these aren't all the arm muscles, they are however the only important ones for artists.
+
 ### Other
 - [Full Arm Anatomy](#full-arm-anatomy-)
 - [Links](#Links-)
