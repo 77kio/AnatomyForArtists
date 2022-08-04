@@ -1,5 +1,5 @@
 # Table Of Content
-- [Full Body](#full-body-)
+- [Full Skeleton](#full-skeleton-)
 - [Bony Landmarks](#bony-landmarks-)
 - [Head Bones](#head-bones-)
 - [Torso Bones](#torso-bones-)
@@ -9,21 +9,22 @@
 - [Foot Bones](#foot-bones-)
 - [Links](#links-)
 
-# Full Body [^](#Table-of-content)
-<details>
-<summary>Full Skeleton</summary>
+# Full Skeleton [^](#Table-of-content)
 
+<img src="https://i.imgur.com/vcFSw2a.jpg" width="750">
+
+<details>
+<summary>More Full Skeleton Anatomy</summary>
 <img src="https://i.imgur.com/cyPhyOd.png" width="600">
 <img src="https://i.imgur.com/jL7mD72.png" width="600">
-<img src="https://i.imgur.com/vcFSw2a.jpg" width="600">
-
 <img src="https://i.imgur.com/rc2zb5S.jpg" width="600">
 </details>
 
-<details>
-<summary>Male and Female Skeleton difference</summary>
+<img src="https://i.imgur.com/NZY3OHw.png" width="400">
 
-<img src="https://i.imgur.com/NZY3OHw.png" width="600">
+<details>
+<summary>More Male and Female Skeleton Differences</summary>
+
 <img src="https://i.imgur.com/pXNv34K.png" width="600">
 </details>
 
@@ -39,7 +40,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 - Tibia
 
 <details>
-<summary>Examples</summary>
+<summary>Examples Of Bony Landmarks</summary>
 <img src="https://i.imgur.com/L8QN0kU.jpg" width="600">
 <img src="https://i.imgur.com/0pnMy87.jpg" width="600">
 <img src="https://i.imgur.com/DKfMpR4.jpg" width="800">
