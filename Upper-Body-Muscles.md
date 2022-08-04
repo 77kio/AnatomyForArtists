@@ -271,7 +271,7 @@ Rhomboid Mayor
 </details>
 
 ### Insertions/ Origins
-The **Rhomboid Mayor** can only be rarely seen, because it hides behind the mighty **Trapezius** and is only seen allot when the arm rotates upwards.
+The **Rhomboid Mayor** can only be seen rarely, because it hides behind the mighty **Trapezius** and is only seen allot when the arm rotates upwards.
 
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
