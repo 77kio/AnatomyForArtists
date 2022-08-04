@@ -15,8 +15,7 @@ Note that these aren't all the arm muscles, they are however the only important 
 - [Triceps Brachii](#Triceps-Brachii-)
 - [Coracobrachialis](#Coracobrachialis-)
 
-
-### [Forearm](#forearm-1-)
+### [Forearm](#forearm- )
 - [Forearm Flexors](#Forearm-Flexors-)
    - Flexor Carpi Ulnaris
    - Flexor Digitorum Superficialis
@@ -108,7 +107,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 <img src="https://i.imgur.com/2beqfTb.png" width="600">
 </details>
 
-# FOREARM [^] (#Table-Of-Content)
+# FOREARM [^](#Table-Of-Content)
 The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps/ Brachialis** and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
 
 <img src="https://i.imgur.com/p4CYanu.jpg" width="600">
