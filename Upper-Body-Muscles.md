@@ -73,7 +73,8 @@ The `Pectoralis Mayor` is split into `3 parts`.
 - Arm flexion
 - Arm extension
 
-**Remembering help**: `Pecs`
+### Remembering help
+`Pecs`
 
 # Serratus Anterior [^](#Table-of-content)
 
@@ -98,7 +99,8 @@ The `Pectoralis Mayor` is split into `3 parts`.
 ### Functions
 - Scapula (shoulder) movement/ rotation
 
-**Remembering help**: `Serrated Blade`
+### Remembering help
+`Serrated Blade`
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
@@ -120,7 +122,8 @@ The `Pectoralis Mayor` is split into `3 parts`.
 - Moves the body between the ribcage and the pelvis
 - Trunk flexion
 
-Remembering help: `Abdominal Area`, `Rectus = Upright`
+### Remembering help
+`Abdominal Area`, `Rectus = Upright`
 
 
 # Obliques [^](#Table-of-content)
@@ -225,7 +228,8 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 ### Functions
 
-Remembering help: `Sharks have a dorsal fin in this area`
+### Remembering help
+`Sharks have a dorsal fin in this area`
 
 
 
