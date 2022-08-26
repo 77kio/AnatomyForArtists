@@ -1,4 +1,7 @@
-# Overview
+# Table Of Content
+- [About Fat Regions](#About-Fat-Regions)
+- [Properly Making Use Of Fat Regions](#Properly-Making-Use-Of-Fat-Regions)
+- [Fat Regions](#Fat-Regions)
 
 # About Fat Regions
 The female an male have quite different fat regions. Generally characters with more muscles will have less fat, however even strong females will still have allot of fat comparatively to males who can almost entirely burn fat. This partially has to do with, that female bodies try to prepare for child bearing. 
@@ -34,14 +37,12 @@ The female **fat regions** are as follows:
 
 _I'll only cover the female fat regions for now._
 
-# How to properly make use of fat regions
+# Properly Making Use Of Fat Regions
 Clothing, rope/ chains and other things that interact with the body will act differently when touching muscly, bony or normal areas vs areas rich in fat.
 
-
-
-# Breasts
+# Fat Regions
+## Breasts
 The breasts lay on top of the pectoralis mayor and are visibly "one" with them.
-
 - Breast fat
 
 <details>
@@ -56,16 +57,13 @@ The breasts lay on top of the pectoralis mayor and are visibly "one" with them.
 <img src="https://i.imgur.com/cvTZKhf.jpg" width="500">
 <img src="https://i.imgur.com/jPxPD5z.jpg" width="500">
 
-
-
-
 </details>
 
-# Abdominal
+## Abdominal
 Starts under belly button, lowest square of six pack
 - Abdominal fat pad
 
-# Pelvic Region
+## Pelvic Region
 ### Love Handles
 Gives illusion of higher hips because the waistline starts earlier
 - Flank fat pad
@@ -82,7 +80,7 @@ Gives illusion of higher hips because the waistline starts earlier
 ### Pubic
 - Pubic fat pad
 
-# Leg
+## Leg
 ### Knee
 Triangle formation. The Lower Anterior starts above the patella and below the hamstrings
 - Lower Anterior Thigh fat pad
