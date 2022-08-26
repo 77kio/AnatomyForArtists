@@ -1,6 +1,7 @@
 # Table Of Content
 - [Skull Bones](#skull-bones-)
 - [Head Muscles](#head-muscles-)
+- [Links](#links-)
 
 # Skull Bones [^](#Table-of-content)
 
@@ -30,9 +31,10 @@ Viscerocranium has 14 bones of which `4` are important.
 - Orbit (Eye socket)
 - Nasal Cavity
 
-## Links
-- https://www.youtube.com/watch?v=9C31IyUW6Tg
-- https://www.youtube.com/watch?v=MWwYjyIKrA8
-
 
 # Head Muscles [^](#Table-of-content)
+
+# Links [^](#Table-of-content)
+- [Basic Anatomy of the Face](https://www.youtube.com/watch?v=9C31IyUW6Tg) (Angel Ganev)
+- [Skull Anatomy Tips](https://www.youtube.com/watch?v=MWwYjyIKrA8) (Sinix Design)
+- [Artistic Anatomy of the Skull](https://www.youtube.com/watch?v=JC0xWHbLZ6U) (Outgang)
