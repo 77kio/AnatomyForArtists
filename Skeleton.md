@@ -1,7 +1,7 @@
 # Table Of Content
 - [Full Skeleton](#full-skeleton-)
 - [Bony Landmarks](#bony-landmarks-)
-- [Head Bones](#head-bones-)
+- [Skull](#skull-)
 - [Torso Bones](#torso-bones-)
 - [Arm Bones](#arm-bones-)
 - [Leg Bones](#leg-bones-)
@@ -48,21 +48,42 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 <img src="https://i.imgur.com/UxghcpJ.jpg" width="600">
 <img src="https://i.imgur.com/T9pzY1x.jpg" width="600">
 
-
-
-
 </details>
 
 
-# Head Bones [^](#Table-of-content)
+# Skull [^](#Table-of-content)
+
+The skull in humans is composed of two parts: The `Cranium/ Nuerocranium` (Brain Case) and the `Viscerocranium` (Facial Skeleton).
+
+## Cranium/ Nuerocranium (Brain Case)
+The Cranium has 8 cranial bones, of which `4` are important.
+
 |🦴 Bones|ℹ Info
 |:-:|:-:
-|Frontal Bone|Top front head bone
-|Maxilla|Upper jaw bone
-|Manbible|Lower jaw bone
-|-|-
-|Parietal bone|Top back head bone
-|Occipital|Bot back head bone
+|Frontal Bone|Forhead
+|Parietal Bone|Top of head
+|Occipital Bone|Back of Head
+|Temoral (Tempols)|Side of Head
+
+
+## Viscerocranium (Facial Skeleton)
+Viscerocranium has 14 bones of which `4` are important.
+|🦴 Bones|ℹ Info
+|:-:|:-:
+|Nasal Bone|
+|Maxilla (Upper Jaw)|
+|Zygomatic Bone (Cheek Bone)|Outer eye socket bone
+|Mandible (Lower Jaw)|
+
+## Holes
+- Orbit (Eye socket)
+- Nasal Cavity
+
+
+## Links
+- https://www.youtube.com/watch?v=MWwYjyIKrA8
+
+
 
 # Torso Bones [^](#Table-of-content)
 |🦴 Bones|Simple Description|ℹ Info
