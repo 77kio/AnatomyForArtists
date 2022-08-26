@@ -1,5 +1,5 @@
 ### Home
-- [**Home**](https://github.com/Epicrex/AnatomyForArtists/wiki)
+- [**Home**](Home)
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) ->
 
 ### Resources
