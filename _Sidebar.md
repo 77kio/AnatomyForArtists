@@ -18,7 +18,6 @@
 - [**Upper Body Muscles**](Upper-Body-Muscles)
 - [**Arm Muscles**](Arm-Muscles)
 - [**Leg Muscles**](Leg-Muscles)
-- [**⚠ Head Muscles**](Head-Muscles)
 - [**⚠ Hands and Feet**](Hands-and-Feet)
 
 ### Other
