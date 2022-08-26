@@ -8,8 +8,11 @@
 ### Terms
 - [**Glossary**](https://github.com/Epicrex/AnatomyForArtists/wiki/Technical-Terms)
 
+### Head
+- [**Head**]()
+
 ### Bones
-- [**Skeleton**](https://github.com/Epicrex/AnatomyForArtists/wiki/Skeleton)
+- [**Skeleton**](Skeleton)
 
 ### Muscles
 - [**Upper Body Muscles**](https://github.com/Epicrex/AnatomyForArtists/wiki/Upper-Body-Muscles)
