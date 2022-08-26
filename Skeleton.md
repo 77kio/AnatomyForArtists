@@ -52,7 +52,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 
 
 # Skull [^](#Table-of-content)
-In the [Head/Skull Bone](Head) section
+In the [Head](Head/Skull Bones) section
 
 # Torso Bones [^](#Table-of-content)
 |🦴 Bones|Simple Description|ℹ Info
