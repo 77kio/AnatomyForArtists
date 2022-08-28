@@ -7,6 +7,8 @@
 
 The skull in humans is composed of two parts: The `Cranium/ Nuerocranium` (Brain Case) and the `Viscerocranium` (Facial Skeleton).
 
+<img src="https://github.com/Epicrex/AnatomyForArtists/blob/main/wiki_img_storage/SkullWithNamesFromFrontAndSide.png" width="750">
+
 ## Cranium/ Nuerocranium (Brain Case)
 The Cranium has 8 cranial bones, of which `4` are important.
 
