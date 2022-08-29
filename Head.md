@@ -41,5 +41,6 @@ Viscerocranium has 14 bones of which `4` are important.
 # Links [^](#Table-of-content)
 - [Basic Anatomy of the Face](https://www.youtube.com/watch?v=9C31IyUW6Tg) (Angel Ganev - 15min)
 - [Skull Anatomy Tips](https://www.youtube.com/watch?v=MWwYjyIKrA8) (Sinix Design - 20min)
+- [Sculpting The Head](https://www.youtube.com/watch?v=Qk0CiHA5Vgs) (Follygon - 15min)
 - [Artistic Anatomy of the Skull](https://www.youtube.com/watch?v=JC0xWHbLZ6U) (Outgang - 2h 45min)
 - [Full Head Sculpt](https://www.youtube.com/watch?v=oY9XybQRxzQ) (Speed Char - 1h)
