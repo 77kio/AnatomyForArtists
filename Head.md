@@ -34,7 +34,7 @@ Viscerocranium has 14 bones of which `4` are important.
 - Orbit (Eye socket)
 - Nasal Cavity
 
-# ⚠ Section in Progress
+# ⚠ Sections in Progress
 # Head Planes [^](#Table-of-content)
 
 # Head Muscles [^](#Table-of-content)
