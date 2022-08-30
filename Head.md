@@ -34,13 +34,6 @@ Viscerocranium has 14 bones of which `4` are important.
 - Orbit (Eye socket)
 - Nasal Cavity
 
-# ⚠ Sections in Progress
-# Head Planes [^](#Table-of-content)
-
-# Head Muscles [^](#Table-of-content)
-
-# Facial Differences Among Cultures
-
 
 # Links [^](#Table-of-content)
 - [Basic Anatomy of the Face](https://www.youtube.com/watch?v=9C31IyUW6Tg) (Angel Ganev - 15min)
@@ -51,3 +44,13 @@ Viscerocranium has 14 bones of which `4` are important.
 - [Sculpting The Head](https://www.youtube.com/watch?v=Qk0CiHA5Vgs) (Follygon - 15min)
 - [Artistic Anatomy of the Skull](https://www.youtube.com/watch?v=JC0xWHbLZ6U) (Outgang - 2h 45min)
 - [Full Head Sculpt](https://www.youtube.com/watch?v=oY9XybQRxzQ) (Speed Char - 1h)
+
+
+# ⚠ Sections in Progress
+# Head Planes [^](#Table-of-content)
+
+# Head Muscles [^](#Table-of-content)
+
+# Facial Differences Among Cultures
+
+
