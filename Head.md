@@ -2,7 +2,7 @@
 - [Skull Bones](#skull-bones-)
 - [Head Planes](#head-planes-)
 - [Head Muscles](#head-muscles-)
-- [Links](#links-)
+- [Videos Covering Head Anatomy](#Videos-Covering-Head-Anatomy-)
 
 # Skull Bones [^](#Table-of-content)
 
@@ -35,7 +35,7 @@ Viscerocranium has 14 bones of which `4` are important.
 - Nasal Cavity
 
 
-# Links [^](#Table-of-content)
+# Videos Covering Head Anatomy [^](#Table-of-content)
 - [Basic Anatomy of the Face](https://www.youtube.com/watch?v=9C31IyUW6Tg) (Angel Ganev - 15min)
 - [Skull Anatomy Tips](https://www.youtube.com/watch?v=MWwYjyIKrA8) (Sinix Design - 20min)
 - [5 Mistakes Artists make when making faces](https://www.youtube.com/watch?v=vIKxffo7YsU) (Flipped Normals - 30min)
