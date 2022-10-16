@@ -16,7 +16,7 @@ The Cranium has 8 cranial bones, of which `4` are important.
 |🦴 Bones|ℹ Info
 |:-:|:-:
 |Frontal Bone|Forhead
-|Parietal Bone|Top to Back of head
+|Parietal Bone|Top to Back of Head
 |Occipital Bone|Back of Head
 |Temoral Bone (Temples)|Side of Head
 
