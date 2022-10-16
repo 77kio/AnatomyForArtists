@@ -10,7 +10,7 @@
 
 # Full Upper Body [^](#Table-of-content)
 <details>
-<summary>General Torso Muscle Anatomy</summary>
+<summary>General Torso Anatomy References</summary>
 
 <img src="https://i.imgur.com/8WEPeQo.jpg" width="300">
 <img src="https://i.imgur.com/aguHSnw.jpg" width="300">
@@ -47,7 +47,7 @@
 <img src="https://i.imgur.com/sk396rp.png" width="650">
 
 <details>
-<summary>More Pectoralis Mayor Anatomy</summary>
+<summary>More Pectoralis Mayor Anatomy References</summary>
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 <img src="https://i.imgur.com/K6Yx1Bw.png" width="800">
 
@@ -80,7 +80,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 
 <img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 <details>
-<summary>More Serratus Anterior Anatomy</summary>
+<summary>More Serratus Anterior Anatomy References</summary>
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
 <img src="https://i.imgur.com/sdaY8Zl.png" width="160">
 <img src="https://i.imgur.com/rUWoHJq.png" width="230">
@@ -107,7 +107,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 <img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 
 <details>
-<summary>More Rectus Abdominus Anatomy</summary>
+<summary>More Rectus Abdominus Anatomy References</summary>
 
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
 
@@ -137,7 +137,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 <img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 
 <details>
-<summary>More Obliques Anatomy</summary>
+<summary>More Obliques Anatomy References</summary>
 </details>
 
 
@@ -159,7 +159,7 @@ The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the
 <img src="https://i.imgur.com/mzeNNVR.png" width="400">
 
 <details>
-<summary>More Trapezius Anatomy</summary>
+<summary>More Trapezius Anatomy References</summary>
 
 <img src="https://i.imgur.com/6oA7PWG.jpg" width="300">
 <img src="https://i.imgur.com/XDR0oVa.jpg" width="300">
@@ -212,7 +212,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 
 
 <details>
-<summary>More Latisimus Dorsi Anatomy</summary>
+<summary>More Latisimus Dorsi Anatomy References</summary>
 <img src="https://i.imgur.com/ACrOdqt.png" width="250">
 <img src="https://i.imgur.com/5P7PBBx.png" width="340">
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
@@ -252,7 +252,7 @@ Teres Mayor
 Rhomboid Mayor
 
 <details>
-<summary>More Infraspinatus, Teres Minor, Teres Mayor and Rhomboid Mayor Anatomy</summary>
+<summary>More Infraspinatus, Teres Minor, Teres Mayor and Rhomboid Mayor Anatomy References</summary>
 
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
