@@ -237,28 +237,27 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 ### Insertions/ Origins
 |**MUSCLE**|**Infraspinatus**|**Teres Minor**|**Teres Mayor**|**Rhomboid Mayor**
 |:-:|:-:|:-:|:-:|:-:
-|-|<img src="https://i.imgur.com/H7EbEZM.png" width="340">|<img src="https://i.imgur.com/F9JAj5s.png" width="340">|<img src="https://i.imgur.com/epjPagM.png" width="340">|<img src="https://i.imgur.com/340KSe1.png" width="340">
+|-|<img src="https://i.imgur.com/H7EbEZM.png" width="570">|<img src="https://i.imgur.com/F9JAj5s.png" width="670">|<img src="https://i.imgur.com/epjPagM.png" width="670">|<img src="https://i.imgur.com/340KSe1.png" width="270">
 |**INFO**|Follows the Scapula Spine|Smallest||The **Rhomboid Mayor** can only be rarely seen, because it hides behind the mighty **Trapezius**. It's only seen allot when the arm rotates upwards or forwards.
 |**ORIGIN**|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Lateral border (Scapula)|Inferior Angle (Scapula)|Medial Border (Scapula)
 |**INSERTION**|Humerus Tubercle|Humerus Tubercle|Humerus Front|Vertebrae (T2-T5)
 
+<img src="https://i.imgur.com/WLtKyYa.jpg" width="360">
+<img src="https://i.imgur.com/jDu3aY7.jpg" width="295">
+<img src="https://i.imgur.com/t9ljhZX.jpg" width="550">
+<img src="https://i.imgur.com/1Z5Kc5E.jpg" width="320">
+<img src="https://i.imgur.com/IkGsJl1.png" width="400">
+
 <details>
 <summary>More Infraspinatus, Teres Minor, Teres Mayor and Rhomboid Mayor Anatomy References</summary>
-
-<img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
-<img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
-<img src="https://i.imgur.com/IkGsJl1.png" width="340">
 <img src="https://i.imgur.com/NyKKfdG.jpg" width="340">
 <img src="https://i.imgur.com/tl8rNuX.jpg" width="340">
 <img src="https://i.imgur.com/yvhR7hz.jpg" width="340">
-<img src="https://i.imgur.com/1Z5Kc5E.jpg" width="340">
-<img src="https://i.imgur.com/t9ljhZX.jpg" width="340">
 <img src="https://i.imgur.com/iIp3aBQ.jpg" width="340">
 <img src="https://i.imgur.com/RqJf9vh.jpg" width="340">
 <img src="https://i.imgur.com/mnxFG0N.png" width="340">
 <img src="https://i.imgur.com/l5rkyVS.png" width="340">
 <img src="https://i.imgur.com/mAf9TYy.png" width="340">
-
 </details>
 
 # Links [^](#Table-of-content)
