@@ -51,12 +51,15 @@
 |**ORIGIN**|Clavicle, Sternum, Top of the Rectus Abdominus|
 |**INSERTION**|Upper part of Humerus
 |**Functions**|• Arm flexion<br>• Arm extension<br>• Arm abduction<br>• Arm internal rotation
-|**Remembering help**|`Pecs`
+|**Remembering help**|• Pecs
 
 ### Origins/ Insertions In More Detail
-The `Pectoralis Mayor` is split into `3 parts`.
+The `Pectoralis Mayor` is split into `3 parts`. 
+- The `Clavicular part`, which is at the top
+- The `Sternocostal part`, which is in the middle
+- The `Abdominal part`, which is at the bottom 
 
-|MUSCLE|_Pectoralis Mayor_ **Clavicular part** (top)|_Pectoralis Mayor_ **Sternocostal part** (mid)|_Pectoralis Mayor_ **Abdominal part** (bot)
+|MUSCLE|Pectoralis Mayor `Clavicular part` (top)|Pectoralis Mayor `Sternocostal part` (mid)|Pectoralis Mayor `Abdominal part` (bot)
 |:-:|:-:|:-:|:-:
 |-|||
 |**ORIGIN**|Medial(Inner) half of Clavicle|Anterior Surface of Sternum (Middle of Sternum)|Top of the Rectus Abdominus
@@ -76,7 +79,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |**ORIGIN**|Ribs (1 - 8/10)
 |**INSERTION**|Scapula
 |**Functions**|• Scapula (shoulder) movement/ rotation
-|**Remembering help**|`Serrated Blade`
+|**Remembering help**|• Serrated Blade
 
 <details>
 <summary>More Serratus Anterior Anatomy References</summary>
@@ -97,7 +100,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |**ORIGIN**|Pubic Symphysis and Pubic Crest (Center of Pubis)
 |**INSERTION**|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
 |**Functions**|• Trunk flexion<br>• Moves the body between the ribcage and the pelvis
-|**Remembering help**|`Abdominal Area`, `Rectus = Upright`
+|**Remembering help**|• Abdominal Area<br>• Rectus = Upright
 
 <details>
 <summary>More Rectus Abdominus Anatomy References</summary>
@@ -173,7 +176,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |**ORIGIN**|ToDo: T7-T12 vertebrae(Middle/ Thoracic Spine)
 |**INSERTION**|
 |**Functions**|
-|**Remembering help**|`Sharks have a dorsal fin in this area`
+|**Remembering help**|• Sharks have a dorsal fin in this area
 
 ### Parts of The Latisimus Dorsi
 |MUSCLE|Thoracolumbar Fascia|Sacral Area
