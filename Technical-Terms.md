@@ -1,19 +1,19 @@
-|Keyword|Explanation
-|:-:|:-:
-|Abduction|The movement of a limb away from the midline of the body (Deltoid)
-|Adduction|The movement of a limb towards the midline of the body (Pectoralis)
-|-|-
-|Origin/Insertion|The start and end point of a muscle. When a muscles flexes the insertion moves to the origin
-|-|-
-|Anterior|Direction towards the front of the body ("That which is before")
-|Posterior|Direction towards the back of the body ("That which follows after")
-|-|-
-|Flexion|Decreases angle between bones (bending of the joint)
-|Extension|Increases angle between bones (straightens joint, bending of the joint)
-|-|-
+|Keyword|Explanation|Example
+|:-:|:-:|:-:
+|Abduction|The movement of a limb `away from the midline` of the body|Muscles that **abduct**: `Deltoid`, `Trapezius`, `Serratus Anterior`. Kicking a ball makes the leg **abduct**
+|Adduction|The movement of a limb `towards the midline` of the body|Muscles that **adduct**: `Pectoralis Mayor`, `Latissimus Dorsi`, `Teres Major`, `Coracobrachialis`, `Triceps Brachii`. When going down to squat, the legs **adducts**.
+|-----|-----|-----
+|Origin/ Insertion|The start and end point of a muscle. When a muscles flexes the insertion moves to the origin. _(Oftentimes muscles have many origin and insertion points)_|The Biceps has its **origin** on the `Scapula🦴` and **inserts** into the `Radius🦴`
+|-----|-----|-----
+|Anterior|Direction towards the front of the body
+|Posterior|Direction towards the back of the body
+|-----|-----|-----
+|Flexion|Decreases angle between bones (bending of the joint)|When touching ones head, the Biceps is flexed
+|Extension|Increases angle between bones (straightens joint, bending of the joint)|When shaking someones hand the Biceps is extended
+|-----|-----|-----
 |External Rotation|The rotation of a joint towards the midline of the body
 |Internal Rotation|The rotation of a joint towards the midline of the body
-|-|- 
+|-----|-----|-----
 |Tuberosity|A large prominence on a bone usually serving for the attachment of muscles or ligaments
 |Ligaments|Short bands of tough, flexible tissue, made up of lots of fibres, which connect the bones together. Provides a passive limit to the amount of movement between bones.
 |Process|
@@ -24,6 +24,8 @@
 # Latin
 |Word|Meaning
 |:-:|:-:
+|Anterior|That which is before
+|Posterior|That which follows after
 |Maximus|Largest
 |Rectus|Right in context of up-right
 |Magnus|Great
