@@ -45,7 +45,7 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 <img src="https://i.imgur.com/Z8zLtoj.jpg" width="500">
 
 <details>
-<summary>Further Examples Of Bony Landmarks</summary>
+<summary>More Examples Of Bony Landmarks</summary>
 <img src="https://i.imgur.com/UxghcpJ.jpg" width="600">
 <img src="https://i.imgur.com/T9pzY1x.jpg" width="600">
 </details>
