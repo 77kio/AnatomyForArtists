@@ -51,7 +51,7 @@
 |**ORIGIN**|Clavicle, Sternum, Top of the Rectus Abdominus|
 |**INSERTION**|Upper part of Humerus
 |**Functions**|• Arm flexion<br>• Arm extension<br>• Arm abduction<br>• Arm internal rotation
-|**Remembering help**|• Pecs
+|**Remembering help**|_Pecs_
 
 ### Origins/ Insertions In More Detail
 The `Pectoralis Mayor` is split into `3 parts`. 
@@ -79,7 +79,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |**ORIGIN**|Ribs (1 - 8/10)
 |**INSERTION**|Scapula
 |**Functions**|• Scapula (shoulder) movement/ rotation
-|**Remembering help**|• Serrated Blade
+|**Remembering help**|_Serrated Blade_
 
 <details>
 <summary>More Serratus Anterior Anatomy References</summary>
@@ -100,7 +100,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |**ORIGIN**|Pubic Symphysis and Pubic Crest (Center of Pubis)
 |**INSERTION**|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
 |**Functions**|• Trunk flexion<br>• Moves the body between the ribcage and the pelvis
-|**Remembering help**|• Abdominal Area<br>• Rectus = Upright
+|**Remembering help**|_Abdominal Area_, _Rectus = Upright_
 
 <details>
 <summary>More Rectus Abdominus Anatomy References</summary>
@@ -115,9 +115,9 @@ It's good to know about the **Internal Obliques**, they can however not be seen,
 The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the part of the **External Obliques** that cover the **Rectus Abdominus** is however the thinnest and thus not really obscuring the **Rectus Abdominus** in mid/ stronger bodies.
 
 ### Origins/ Insertions
-|MUSCLE|Internal Obliques|External Obliques
+|MUSCLE|External Obliques|Internal Obliques
 |:-:|:-:|:-:
-|-|<img src="https://i.imgur.com/omZfDtQ.png" width="500">|<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
+|-|<img src="https://i.imgur.com/MuNjvLJ.png" width="500">|<img src="https://i.imgur.com/omZfDtQ.png" width="500">
 |**ORIGIN**|External surfaces of ribs 5-12|-
 |**INSERTION**|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest|-
 |**Functions**|• Trunk flexion<br>• Trunk rotation|-
@@ -176,7 +176,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 |**ORIGIN**|ToDo: T7-T12 vertebrae(Middle/ Thoracic Spine)
 |**INSERTION**|
 |**Functions**|
-|**Remembering help**|• Sharks have a dorsal fin in this area
+|**Remembering help**|_Sharks have a dorsal fin in this area_
 
 ### Parts of The Latisimus Dorsi
 |MUSCLE|Thoracolumbar Fascia|Sacral Area
