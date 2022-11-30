@@ -21,7 +21,7 @@
 |Tissue|
 |Bone Tissue|The inside of a bone. Different bones have different structures like for example the honeycomb structure which is like bone armor
 
-# Latin
+# Latin Words That Appear In Anatomical Terms
 |Word|Meaning
 |:-:|:-:
 |Anterior|That which is before
