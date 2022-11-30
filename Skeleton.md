@@ -39,15 +39,15 @@ Bony landmarks are essential for placing muscles correctly as well as often bein
 - Patella
 - Tibia
 
-<details>
-<summary>Examples Of Bony Landmarks</summary>
-<img src="https://i.imgur.com/L8QN0kU.jpg" width="600">
+<img src="https://i.imgur.com/L8QN0kU.jpg" width="500">
 <img src="https://i.imgur.com/0pnMy87.jpg" width="600">
-<img src="https://i.imgur.com/DKfMpR4.jpg" width="800">
-<img src="https://i.imgur.com/Z8zLtoj.jpg" width="600">
+<img src="https://i.imgur.com/DKfMpR4.jpg" width="700">
+<img src="https://i.imgur.com/Z8zLtoj.jpg" width="500">
+
+<details>
+<summary>Further Examples Of Bony Landmarks</summary>
 <img src="https://i.imgur.com/UxghcpJ.jpg" width="600">
 <img src="https://i.imgur.com/T9pzY1x.jpg" width="600">
-
 </details>
 
 
