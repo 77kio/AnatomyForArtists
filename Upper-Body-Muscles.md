@@ -55,9 +55,9 @@
 
 ### Origins/ Insertions In More Detail
 The `Pectoralis Mayor` is split into `3 parts`. 
-- The `Clavicular part`, which is at the top
-- The `Sternocostal part`, which is in the middle
-- The `Abdominal part`, which is at the bottom 
+- The `Clavicular part`, which is at the `top`
+- The `Sternocostal part`, which is in the `middle`
+- The `Abdominal part`, which is at the `bottom `
 
 |MUSCLE|Pectoralis Mayor `Clavicular part` (top)|Pectoralis Mayor `Sternocostal part` (mid)|Pectoralis Mayor `Abdominal part` (bot)
 |:-:|:-:|:-:|:-:
@@ -143,7 +143,11 @@ The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the
 
 ### Origins/ Insertions In More Detail
 The `Trapezius` is split into `3 parts`.
-|MUSCLE|_Trapezius_ Descending part (upper)|_Trapezius_ Transverse part (middle)|_Trapezius_ Ascending part (lower)
+- The `Descending part`, being the `upper` part
+- The `Transverse part`, being  the `middle` part
+- The `Ascending part`, being  the `lower` part
+
+|MUSCLE|_Trapezius_ `Descending part` (upper)|_Trapezius_ `Transverse part` (middle)|_Trapezius_ `Ascending part` (lower)
 |:-:|:-:|:-:|:-:
 |-|||
 |**ORIGIN**|Superior Nuchal Line (Lower Back of Skull)|C1-T3 Vertebrae (Upper/ Cervical Spine)|T4-T12 Vertebrae (Mid/ Thoracic Spine)
