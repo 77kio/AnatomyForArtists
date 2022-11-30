@@ -6,22 +6,19 @@
 - [**Anatomy Resources**](anatomy-resources)
 
 ### Terms
-- [**Glossary**](Technical-Terms)
+- [**Glossary** 📄](Technical-Terms)
 
 ### Head
-- [**Head**](Head)
+- [**Head** 👩🏽](Head)
 
 ### Bones
-- [**Skeleton**](Skeleton)
+- [**Skeleton** 🦴💀](Skeleton)
 
 ### Muscles
 - [**Upper Body Muscles**](Upper-Body-Muscles)
 - [**Arm Muscles**](Arm-Muscles)
 - [**Leg Muscles**](Leg-Muscles)
 - [**⚠ Hands and Feet**](Hands-and-Feet)
-
-### NameMe
-- []()
 
 ### Other
 - [**Fat Spots**](Fat-spots)
