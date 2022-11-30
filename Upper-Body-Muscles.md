@@ -69,7 +69,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 </details>
 
 # Serratus Anterior [^](#Table-of-content)
-
+### Origins/ Insertions
 |MUSCLE|Serratus Anterior
 |:-:|:-:
 |-|<img src="https://i.imgur.com/zn3mERa.jpg" width="300">
@@ -90,6 +90,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
+### Origins/ Insertions
 |MUSCLE|Rectus Abdominus
 |:-:|:-:
 |-|<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
@@ -105,18 +106,19 @@ The `Pectoralis Mayor` is split into `3 parts`.
 
 
 # Obliques [^](#Table-of-content)
-
+### Info
 It's good to know about the **Internal Obliques**, they can however not be seen, because the **External Obliques** cover them. This is also why the **External Obliques** are often simply called **Obliques**.
 
 The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the part of the **External Obliques** that cover the **Rectus Abdominus** is however the thinnest and thus not really obscuring the **Rectus Abdominus** in mid/ stronger bodies.
 
+### Origins/ Insertions
 |MUSCLE|Internal Obliques|External Obliques
 |:-:|:-:|:-:
 |-|<img src="https://i.imgur.com/omZfDtQ.png" width="500">|<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
-|**ORIGIN**|External surfaces of ribs 5-12
-|**INSERTION**|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest
-|**Functions**|- Trunk flexion<br>- Trunk rotation
-|**Remembering help**|
+|**ORIGIN**|External surfaces of ribs 5-12|-
+|**INSERTION**|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest|-
+|**Functions**|- Trunk flexion<br>- Trunk rotation|-
+|**Remembering help**|-|-
 
 <details>
 <summary>More Obliques Anatomy References</summary>
@@ -164,7 +166,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 # Latisimus Dorsi (Lats) [^](#Table-of-content)
 
-### Origins/ Insertions In Short
+### Origins/ Insertions
 |MUSCLE|Latisimus Dorsi
 |:-:|:-:
 |-|<img src="https://i.imgur.com/kCY791a.png" width="230">
@@ -190,7 +192,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
-### Insertions/ Origins
+### Origins/ Insertions
 |**MUSCLE**|**Infraspinatus**|**Teres Minor**|**Teres Mayor**|**Rhomboid Mayor**
 |:-:|:-:|:-:|:-:|:-:
 |-|<img src="https://i.imgur.com/H7EbEZM.png" width="570">|<img src="https://i.imgur.com/F9JAj5s.png" width="670">|<img src="https://i.imgur.com/epjPagM.png" width="670">|<img src="https://i.imgur.com/340KSe1.png" width="270">
