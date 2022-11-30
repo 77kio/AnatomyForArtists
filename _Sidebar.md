@@ -2,11 +2,10 @@
 - [**Home**](Home)
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) ->
 
-### Resources
+### General
 - [**Anatomy Resources**](anatomy-resources)
-
-### Terms
 - [**Glossary** 📄](Technical-Terms)
+
 
 ### Head
 - [**Head** 👩🏽](Head)
