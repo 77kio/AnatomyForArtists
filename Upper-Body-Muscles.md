@@ -50,7 +50,7 @@
 |-|<img src="https://i.imgur.com/sk396rp.png" width="650">
 |**ORIGIN**|Clavicle, Sternum, Top of the Rectus Abdominus|
 |**INSERTION**|Upper part of Humerus
-|**Functions**|- Arm flexion<br>- Arm extension<br>- Arm abduction<br>- Arm internal rotation
+|**Functions**|• Arm flexion<br>• Arm extension<br>• Arm abduction<br>• Arm internal rotation
 |**Remembering help**|`Pecs`
 
 ### Origins/ Insertions In More Detail
@@ -75,7 +75,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |-|<img src="https://i.imgur.com/zn3mERa.jpg" width="300">
 |**ORIGIN**|Ribs (1 - 8/10)
 |**INSERTION**|Scapula
-|**Functions**|Scapula (shoulder) movement/ rotation
+|**Functions**|• Scapula (shoulder) movement/ rotation
 |**Remembering help**|`Serrated Blade`
 
 <details>
@@ -96,7 +96,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 |-|<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
 |**ORIGIN**|Pubic Symphysis and Pubic Crest (Center of Pubis)
 |**INSERTION**|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
-|**Functions**|- Trunk flexion<br>- Moves the body between the ribcage and the pelvis
+|**Functions**|• Trunk flexion<br>• Moves the body between the ribcage and the pelvis
 |**Remembering help**|`Abdominal Area`, `Rectus = Upright`
 
 <details>
@@ -117,7 +117,7 @@ The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the
 |-|<img src="https://i.imgur.com/omZfDtQ.png" width="500">|<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
 |**ORIGIN**|External surfaces of ribs 5-12|-
 |**INSERTION**|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest|-
-|**Functions**|- Trunk flexion<br>- Trunk rotation|-
+|**Functions**|• Trunk flexion<br>• Trunk rotation|-
 |**Remembering help**|-|-
 
 <details>
@@ -134,7 +134,7 @@ The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the
 |-|<img src="https://i.imgur.com/hBnYIUk.png" width="250"> <img src="https://i.imgur.com/mzeNNVR.png" width="400">
 |**ORIGIN**|Lower Back of Skull, Spine
 |**INSERTION**|Clavicle, Scapula
-|**Functions**|- Posture<br>- Stand straight<br>- Head up down and turn<br>- Shoulder movement/ Scalpula control
+|**Functions**|• Posture<br>• Stand straight<br>• Head up down and turn<br>• Shoulder movement/ Scalpula control
 |**Remembering help**|
 
 
