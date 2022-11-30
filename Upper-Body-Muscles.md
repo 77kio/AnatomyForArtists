@@ -44,41 +44,40 @@
 
 # Pectoralis Mayor (Pectorals) [^](#Table-of-content)
 
-<img src="https://i.imgur.com/sk396rp.png" width="650">
+### Origins/ Insertions In Short
+|MUSCLE|Pectoralis Mayor
+|:-:|:-:
+|-|<img src="https://i.imgur.com/sk396rp.png" width="650">
+|**ORIGIN**|Clavicle, Sternum, Top of the Rectus Abdominus|
+|**INSERTION**|Upper part of Humerus
+|**Functions**|- Arm flexion<br>- Arm extension<br>- Arm abduction<br>- Arm internal rotation
+|**Remembering help**|`Pecs`
+
+### Origins/ Insertions In More Detail
+The `Pectoralis Mayor` is split into `3 parts`.
+
+|MUSCLE|_Pectoralis Mayor_ **Clavicular part** (top)|_Pectoralis Mayor_ **Sternocostal part** (mid)|_Pectoralis Mayor_ **Abdominal part** (bot)
+|:-:|:-:|:-:|:-:
+|-|||
+|**ORIGIN**|Medial(Inner) half of Clavicle|Anterior Surface of Sternum (Middle of Sternum)|Top of the Rectus Abdominus
+|**INSERTION**|The Tubercle Grove of the Top of the Humerus Shaft|The Tubercle Grove of the Top of the Humerus Shaft|The Tubercle Grove of the Top of the Humerus Shaft
 
 <details>
 <summary>More Pectoralis Mayor Anatomy References</summary>
 <img src="https://i.imgur.com/YG6qp81.jpg" width="203">
 <img src="https://i.imgur.com/K6Yx1Bw.png" width="800">
-
 </details>
-
-### Insertions/ Origins In Short
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|**Pectoralis Mayor**|Clavicle, Sternum, Top of the Rectus Abdominus|Upper part of Humerus
-
-
-### Insertions/ Origins In More Detail
-The `Pectoralis Mayor` is split into `3 parts`.
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|_Pectoralis Mayor_ **Clavicular part** (top)|Medial(Inner) half of Clavicle|The Tubercle Grove of the Top of the Humerus Shaft
-|_Pectoralis Mayor_ **Sternocostal part** (mid)|Anterior Surface of Sternum (Middle of Sternum)|The Tubercle Grove of the Top of the Humerus Shaft
-|_Pectoralis Mayor_ **Abdominal part** (bot)|Top of the Rectus Abdominus|The Tubercle Grove of the Top of the Humerus Shaft
-
-### Functions
-- Arm abduction
-- Arm internal rotation
-- Arm flexion
-- Arm extension
-
-### Remembering help
-`Pecs`
 
 # Serratus Anterior [^](#Table-of-content)
 
-<img src="https://i.imgur.com/zn3mERa.jpg" width="300">
+|MUSCLE|Serratus Anterior
+|:-:|:-:
+|-|<img src="https://i.imgur.com/zn3mERa.jpg" width="300">
+|**ORIGIN**|Ribs (1 - 8/10)
+|**INSERTION**|Scapula
+|**Functions**|Scapula (shoulder) movement/ rotation
+|**Remembering help**|`Serrated Blade`
+
 <details>
 <summary>More Serratus Anterior Anatomy References</summary>
 <img src="https://i.imgur.com/cBMKKW4.png" width="250">
@@ -87,76 +86,64 @@ The `Pectoralis Mayor` is split into `3 parts`.
 <img src="https://i.imgur.com/JfzhWmC.png" width="150">
 <img src="https://i.imgur.com/x4ryIyP.png" width="180">
 <img src="https://i.imgur.com/RoZ0jMB.jpg" width="400">
-
-
 </details>
-
-### Insertions/ Origins
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|Serratus Anterior|Ribs (1 - 8/10)|Scapula
-
-### Functions
-- Scapula (shoulder) movement/ rotation
-
-### Remembering help
-`Serrated Blade`
 
 # Rectus Abdominus (Abs) [^](#Table-of-content)
 
-<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
+|MUSCLE|Rectus Abdominus
+|:-:|:-:
+|-|<img src="https://i.imgur.com/ty7xSYi.jpg" width="287">
+|**ORIGIN**|Pubic Symphysis and Pubic Crest (Center of Pubis)
+|**INSERTION**|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
+|**Functions**|- Trunk flexion<br>- Moves the body between the ribcage and the pelvis
+|**Remembering help**|`Abdominal Area`, `Rectus = Upright`
 
 <details>
 <summary>More Rectus Abdominus Anatomy References</summary>
-
 <img src="https://i.imgur.com/IHz1PbL.png" width="500">
-
 </details>
-
-### Insertions/ Origins
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|Rectus Abdominus|Pubic Symphysis and Pubic Crest (Center of Pubis)|Xiphoid Process (Bottom tip) of Sternum, Costal Cartilages (Inner part) of ribs 5-7
-
-### Functions
-- Moves the body between the ribcage and the pelvis
-- Trunk flexion
-
-### Remembering help
-`Abdominal Area`, `Rectus = Upright`
 
 
 # Obliques [^](#Table-of-content)
 
-**Internal Obliques**
+It's good to know about the **Internal Obliques**, they can however not be seen, because the **External Obliques** cover them. This is also why the **External Obliques** are often simply called **Obliques**.
 
-<img src="https://i.imgur.com/omZfDtQ.png" width="500">
+The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the part of the **External Obliques** that cover the **Rectus Abdominus** is however the thinnest and thus not really obscuring the **Rectus Abdominus** in mid/ stronger bodies.
 
-**External Obliques**
-
-<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
+|MUSCLE|Internal Obliques|External Obliques
+|:-:|:-:|:-:
+|-|<img src="https://i.imgur.com/omZfDtQ.png" width="500">|<img src="https://i.imgur.com/MuNjvLJ.png" width="500">
+|**ORIGIN**|External surfaces of ribs 5-12
+|**INSERTION**|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest
+|**Functions**|- Trunk flexion<br>- Trunk rotation
+|**Remembering help**|
 
 <details>
 <summary>More Obliques Anatomy References</summary>
 </details>
 
 
-### External Obliques Insertions/ Origins
-It's good to know about the **Internal Obliques** they can however not be seen because the **External Obliques** cover them. This is also why the **External Obliques** are often simply called **Obliques**.
-
-The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the part of the **External Obliques** that cover the **Rectus Abdominus** is however the thinnest and thus not really obscuring the **Rectus Abdominus** in mid/ stronger bodies.
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|External Obliques|External surfaces of ribs 5-12|Linea Alba (Ligament that runs from Sternum tip to Pelvis), Pubic Tubercle, Iliac Crest 
-
-### Functions
-- Trunk rotation
-- Trunk flexion
 
 # Trapezius [^](#Table-of-content)
 
-<img src="https://i.imgur.com/hBnYIUk.png" width="250">
-<img src="https://i.imgur.com/mzeNNVR.png" width="400">
+### Origins/ Insertions In Short
+|MUSCLE|Trapezius 
+|:-:|:-:
+|-|<img src="https://i.imgur.com/hBnYIUk.png" width="250"> <img src="https://i.imgur.com/mzeNNVR.png" width="400">
+|**ORIGIN**|Lower Back of Skull, Spine
+|**INSERTION**|Clavicle, Scapula
+|**Functions**|- Posture<br>- Stand straight<br>- Head up down and turn<br>- Shoulder movement/ Scalpula control
+|**Remembering help**|
+
+
+### Origins/ Insertions In More Detail
+The `Trapezius` is split into `3 parts`.
+|MUSCLE|_Trapezius_ Descending part (upper)|_Trapezius_ Transverse part (middle)|_Trapezius_ Ascending part (lower)
+|:-:|:-:|:-:|:-:
+|-|||
+|**ORIGIN**|Superior Nuchal Line (Lower Back of Skull)|C1-T3 Vertebrae (Upper/ Cervical Spine)|T4-T12 Vertebrae (Mid/ Thoracic Spine)
+|**INSERTION**|Lateral Third of Clavicle (Outer part of Clavicle)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)|Medial End of Scapula Spine (Inner Side of Scapula)
+
 
 <details>
 <summary>More Trapezius Anatomy References</summary>
@@ -175,41 +162,23 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
-### Insertions/ Origins In Short
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|**Trapezius**|Lower Back of Skull, Spine|Clavicle, Scapula
-
-### Insertions/ Origins In More Detail
-The `Trapezius` is split into `3 parts`.
-
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-|_Trapezius_ **Descending part** (upper)|Superior Nuchal Line (Lower Back of Skull)|Lateral Third of Clavicle (Outer part of Clavicle)
-|_Trapezius_ **Transverse part** (middle)|C1-T3 Vertebrae (Upper/ Cervical Spine)|Spine and Acromion Process of Scapula (Spine of Scapula continues into the Acromion Process)
-|_Trapezius_ **Ascending part** (lower)|T4-T12 Vertebrae (Mid/ Thoracic Spine)|Medial End of Scapula Spine (Inner Side of Scapula)
-
-
-### Functions
-- Posture
-- Head up down and turn
-- Stand straight
-- Shoulder movement/ Scalpula control
-
-
-
 # Latisimus Dorsi (Lats) [^](#Table-of-content)
 
-<img src="https://i.imgur.com/kCY791a.png" width="230">
+### Origins/ Insertions In Short
+|MUSCLE|Latisimus Dorsi
+|:-:|:-:
+|-|<img src="https://i.imgur.com/kCY791a.png" width="230">
+|**ORIGIN**|ToDo: T7-T12 vertebrae(Middle/ Thoracic Spine)
+|**INSERTION**|
+|**Functions**|
+|**Remembering help**|`Sharks have a dorsal fin in this area`
 
-The **Thoracolumbar Fascia** is a diamond shaped part of the **Latisimus Dorsi**
-
-<img src="https://i.imgur.com/ddSMY3t.jpg" width="300">
-
-The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
-
-<img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
-
+### Parts of The Latisimus Dorsi
+|MUSCLE|Thoracolumbar Fascia|Sacral Area
+|:-:|:-:|:-:
+|-|<img src="https://i.imgur.com/ddSMY3t.jpg" width="300">|<img src="https://i.imgur.com/IvHH7nz.jpg" width="300">
+|**Location**|
+|**Info**|A diamond shaped part of the **Latisimus Dorsi**|A triangle shaped part at the bottom of the **Latisimus Dorsi**
 
 <details>
 <summary>More Latisimus Dorsi Anatomy References</summary>
@@ -218,19 +187,6 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 <img src="https://i.imgur.com/WLtKyYa.jpg" width="340">
 <img src="https://i.imgur.com/jDu3aY7.jpg" width="340">
 </details>
-
-
-### Insertions/ Origins
-|MUSCLE|ORIGIN|INSERTION
-|:-:|:-:|:-:
-| |ToDo: T7-T12 vertebrae(Middle/ Thoracic Spine)|
-
-
-### Functions
-
-### Remembering help
-`Sharks have a dorsal fin in this area`
-
 
 
 # Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
