@@ -24,12 +24,12 @@
 # Latin Words That Appear In Anatomical Terms
 |Word|Meaning
 |:-:|:-:
-|Anterior|That which is before
-|Posterior|That which follows after
-|Maximus|Largest
-|Rectus|Right in context of up-right
-|Magnus|Great
-|Medius|Middle
-|Longus|Long
+|Anterior|that which is before
+|Posterior|that which follows after
+|Maximus|largest
+|Rectus|right in context of up-right
+|Magnus|great
+|Medius|middle
+|Longus|long
 |Medial(Medialis)|Towards the middle of the body (Use: Chest is medial of the arm)
 |Lateral(Lateralis)|Farther from the middle of the body. Sides of an object
