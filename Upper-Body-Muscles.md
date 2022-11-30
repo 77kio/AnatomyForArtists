@@ -238,7 +238,7 @@ The **Sacral Area** is at the bottom of the **Latisimus Dorsi**
 |**MUSCLE**|**Infraspinatus**|**Teres Minor**|**Teres Mayor**|**Rhomboid Mayor**
 |:-:|:-:|:-:|:-:|:-:
 |-|<img src="https://i.imgur.com/H7EbEZM.png" width="570">|<img src="https://i.imgur.com/F9JAj5s.png" width="670">|<img src="https://i.imgur.com/epjPagM.png" width="670">|<img src="https://i.imgur.com/340KSe1.png" width="270">
-|**INFO**|Follows the Scapula Spine|Smallest||The **Rhomboid Mayor** can only be rarely seen, because it hides behind the mighty **Trapezius**. It's only seen allot when the arm rotates upwards or forwards.
+|**INFO**|Follows the Scapula Spine|Smallest of the 4||The **Rhomboid Mayor** can only be rarely seen, because it hides behind the mighty **Trapezius**. It's only seen allot when the arm rotates upwards or forwards.
 |**ORIGIN**|Medial Border (Scapula)/ Infraspinous Fossa (Scapula)|Lateral border (Scapula)|Inferior Angle (Scapula)|Medial Border (Scapula)
 |**INSERTION**|Humerus Tubercle|Humerus Tubercle|Humerus Front|Vertebrae (T2-T5)
 
