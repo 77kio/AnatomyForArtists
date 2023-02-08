@@ -22,7 +22,7 @@
 |Bone Tissue|The inside of a bone. Different bones have different structures like for example the honeycomb structure which is like bone armor
 
 # Latin Words That Appear In Anatomical Terms
-|Word|Meaning
+|Latin Word|Meaning
 |:-:|:-:
 |Anterior|that which is before
 |Posterior|that which follows after
