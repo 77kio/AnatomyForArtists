@@ -21,5 +21,6 @@
 
 ### Other
 - [**Fat Spots**](Fat-spots)
+- [**Skindentation**](Skindentation)
 - [**⚠ Veins**](Veins)
 - [**⚠ Skin Color**](Skin-Color)
