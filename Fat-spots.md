@@ -40,6 +40,8 @@ _I'll only cover the female fat regions for now._
 # Properly Making Use Of Fat Regions [^](#Table-Of-Content)
 Clothing, rope/ chains and other things that interact with the body will act differently when touching muscly, bony or normal areas vs areas rich in fat.
 
+More on that in the [skindentation]() section.
+
 # Fat Regions [^](#Table-Of-Content)
 ## Breasts [^](#About-The-Fat-Regions-)
 The breasts lay on top of the pectoralis mayor and are visibly "one" with them.
