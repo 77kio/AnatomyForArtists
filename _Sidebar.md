@@ -1,26 +1,26 @@
 ### Home
-- [**Home**](Home)
+- [**Home**](home)
 - [**3D Artist's Handbook**](https://github.com/Epicrex/3DArtistsHandbook/wiki) ->
 
 ### General
 - [**Anatomy Resources**](anatomy-resources)
-- [**Glossary** 📄](Technical-Terms)
+- [**Glossary** 📄](technical-terms)
 
 
 ### Head
-- [**Head** 👩🏽](Head)
+- [**Head** 👩🏽](head)
 
 ### Bones
-- [**Skeleton** 🦴💀](Skeleton)
+- [**Skeleton** 🦴💀](skeleton)
 
 ### Muscles
-- [**Upper Body Muscles**](Upper-Body-Muscles)
-- [**Arm Muscles**](Arm-Muscles)
-- [**Leg Muscles**](Leg-Muscles)
-- [**⚠ Hands and Feet**](Hands-and-Feet)
+- [**Upper Body Muscles**](upper-body-muscles)
+- [**Arm Muscles**](arm-muscles)
+- [**Leg Muscles**](leg-muscles)
+- [**⚠ Hands and Feet**](hands-and-feet)
 
 ### Other
-- [**Fat Spots**](Fat-spots)
-- [**Skindentation**](Skindentation)
-- [**⚠ Veins**](Veins)
-- [**⚠ Skin Color**](Skin-Color)
+- [**Fat Spots**](fat-spots)
+- [**Skindentation**](skindentation)
+- [**⚠ Veins**](veins)
+- [**⚠ Skin Color**](skin-color)
