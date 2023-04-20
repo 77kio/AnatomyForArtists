@@ -8,7 +8,7 @@ Note that these aren't all the arm muscles, they are however the only important 
 ### Other
 - [Full Arm Anatomy](#full-arm-anatomy-)
 - [Links](#Links-)
-### Upper Arm
+### [Upper Arm](#Upper-Arm-)
 - [Deltoid](#Deltoid-)
 - [Biceps Brachii](#Biceps-Brachii-)
 - [Brachialis](#Brachialis-)
