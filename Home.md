@@ -1,4 +1,4 @@
-An anatomy guide for 3D/ 2D artists.
+Anatomy guide for 3D/ 2D artists.
 
 Note that this anatomy is only a foundation, and an anatomy board of real and drawn naked bodies is definitely needed.
 
