@@ -1,10 +1,10 @@
-# Table Of Content
+# Table of Contents
 - [Skull Bones](#skull-bones-)
 - [Head Planes](#head-planes-)
 - [Head Muscles](#head-muscles-)
 - [Videos Covering Head Anatomy](#Videos-Covering-Head-Anatomy-)
 
-# Skull Bones [^](#Table-of-content)
+# Skull Bones [^](#table-of-contents)
 
 The skull in humans is composed of two parts: The `Cranium/ Nuerocranium` (Brain Case) and the `Viscerocranium` (Facial Skeleton).
 
@@ -35,7 +35,7 @@ Viscerocranium has 14 bones of which `4` are important.
 - Nasal Cavity
 
 
-# Videos Covering Head Anatomy [^](#Table-of-content)
+# Videos Covering Head Anatomy [^](#table-of-contents)
 - [Basic Anatomy of the Face](https://www.youtube.com/watch?v=9C31IyUW6Tg) (Angel Ganev - 15min)
 - [Skull Anatomy Tips](https://www.youtube.com/watch?v=MWwYjyIKrA8) (Sinix Design - 20min)
 - [5 Mistakes Artists make when making faces](https://www.youtube.com/watch?v=vIKxffo7YsU) (Flipped Normals - 30min)
@@ -47,9 +47,9 @@ Viscerocranium has 14 bones of which `4` are important.
 
 
 # ⚠ Sections in Progress
-# Head Planes [^](#Table-of-content)
+# Head Planes [^](#table-of-contents)
 
-# Head Muscles [^](#Table-of-content)
+# Head Muscles [^](#table-of-contents)
 
 # Facial Differences Among Cultures
 
