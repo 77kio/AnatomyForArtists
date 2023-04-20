@@ -1,7 +1,7 @@
 Quite unfinished
 
 
-# Table of Content
+# Table of Contents
 
 Note that these aren't all the arm muscles, they are however the only important ones for artists.
 
@@ -33,7 +33,7 @@ Note that these aren't all the arm muscles, they are however the only important 
    - Anconeus
 
 
-# Full Arm Anatomy [^](#Table-Of-Content)
+# Full Arm Anatomy [^](#table-of-contents)
 <details>
 <summary>Arm Muscles</summary>
 
@@ -51,9 +51,9 @@ Note that these aren't all the arm muscles, they are however the only important 
 
 </details>
 
-# UPPER ARM [^](#Table-Of-Content)
+# UPPER ARM [^](#table-of-contents)
 
-## Deltoid [^](#Table-Of-Content)
+## Deltoid [^](#table-of-contents)
 - The **Deltoid** arches to the front, the sharp tip going backwards
 - The **Deltoid** isn't round but has a bump in the middle
 
@@ -73,7 +73,7 @@ Note that these aren't all the arm muscles, they are however the only important 
 </details>
 
 
-## Biceps Brachii [^](#Table-Of-Content)
+## Biceps Brachii [^](#table-of-contents)
 The Biceps consists of two heads that unite at the bottom
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
@@ -81,12 +81,12 @@ The Biceps consists of two heads that unite at the bottom
 |**Biceps Short Head** (BB)|Scapula coracoid process|Radius tuberosity|More towards the center
 |**Biceps Long Head** (BB)|Socket of the Scapula|Radius tuberosity|
 
-## Brachialis [^](#Table-Of-Content)
+## Brachialis [^](#table-of-contents)
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |**Brachialis**|||
 
-## Triceps Brachii [^](#Table-Of-Content)
+## Triceps Brachii [^](#table-of-contents)
 The Triceps consists of three heads that unite at the bottom into the Triceps tendon
 
 |MUSCLE PART|ORIGIN|INSERTION|INFO
@@ -96,7 +96,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 |**Triceps Medial Head** (T)|Humerus|Olecranon (Elbow)|
 |**Triceps Tendon** (T)|Middle of Long/Lateral Tricpes head|Olecranon (Elbow)|
 
-## Coracobrachialis [^](#Table-Of-Content)
+## Coracobrachialis [^](#table-of-contents)
 |MUSCLE PART|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |**Coracobrachialis**|||
@@ -107,7 +107,7 @@ The Triceps consists of three heads that unite at the bottom into the Triceps te
 <img src="https://i.imgur.com/2beqfTb.png" width="600">
 </details>
 
-# FOREARM [^](#Table-Of-Content)
+# FOREARM [^](#table-of-contents)
 The forarm muscles are split into two groups the **Flexors** and **Extensor**. These two groups are visibly distinct, the Extensor group being the bigger one. The front border is below the **Biceps/ Brachialis** and the back border is below the **Triceps**, following the **Ulna**. The **Extensors** are farther from the midline where as the **Flexors** are closer to the midline.
 
 <img src="https://i.imgur.com/p4CYanu.jpg" width="600">
@@ -117,7 +117,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 <img src="https://i.imgur.com/Ng4lvza.jpg" width="600">
 </details>
 
-## Forearm Flexors [^](#Table-Of-Content)
+## Forearm Flexors [^](#table-of-contents)
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |**Flexor Carpi Ulnaris** (FCU)|Between Triceps and Biceps|Bottom of hand far side from thumb|
@@ -128,7 +128,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |**Pronator Teres** (PT)|Between Triceps and Biceps|Middle of Brachioradialis|Stays beside the Bicep
 
 
-## Forearm Extensors [^](#Table-Of-Content)
+## Forearm Extensors [^](#table-of-contents)
 |MUSCLE|ORIGIN|INSERTION|INFO
 |:-:|:-:|:-:|:-:
 |**Brachioradialis** (Brr)|Between Brachialis and Triceps|Inner side of hand|Brachialis side, bigger one
@@ -143,7 +143,7 @@ The forarm muscles are split into two groups the **Flexors** and **Extensor**. T
 |-|-|-|-
 |**Anconeus** (A)|||Below Triceps
 
-# Links [^](#Table-Of-Content)
+# Links [^](#table-of-contents)
 ### Videos
 - [Sculpting Arm With Every Muscle As Separate SubTool](https://www.youtube.com/watch?v=Ztk8VfqMJHw) (Lukas Kutschera)
 - [Sculpting Arm](https://www.youtube.com/watch?v=HvpxLRB5bdU) (Julian Khor)
