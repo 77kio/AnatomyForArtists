@@ -1,9 +1,9 @@
-# Table Of Content
-- [About The Fat Regions](#About-The-Fat-Regions-)
-- [Properly Making Use Of Fat Regions](#Properly-Making-Use-Of-Fat-Regions-)
+# Table of Contents
+- [About the Fat Regions](#About-The-Fat-Regions-)
+- [Properly Making Use of Fat Regions](#Properly-Making-Use-Of-Fat-Regions-)
 - [Fat Regions](#Fat-Regions-)
 
-# About The Fat Regions [^](#Table-Of-Content)
+# About the Fat Regions [^](#table-of-contents)
 The female an male have quite different fat regions. Generally characters with more muscles will have less fat, however even strong females will still have allot of fat comparatively to males who can almost entirely burn fat. This partially has to do with, that female bodies try to prepare for child bearing. 
 
 The female **fat regions** are as follows:
@@ -37,12 +37,12 @@ The female **fat regions** are as follows:
 
 _I'll only cover the female fat regions for now._
 
-# Properly Making Use Of Fat Regions [^](#Table-Of-Content)
+# Properly Making Use of Fat Regions [^](#table-of-contents)
 Clothing, rope/ chains and other things that interact with the body will act differently when touching muscly, bony or normal areas vs areas rich in fat.
 
 More on that in the [skindentation](Skindentation) section.
 
-# Fat Regions [^](#Table-Of-Content)
+# Fat Regions [^](#table-of-contents)
 ## Breasts [^](#About-The-Fat-Regions-)
 The breasts lay on top of the pectoralis mayor and are visibly "one" with them.
 - Breast fat
