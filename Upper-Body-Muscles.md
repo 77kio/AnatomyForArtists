@@ -1,4 +1,4 @@
-# Table Of Content
+# Table of Contents
 - [Pectoralis Mayor (Pectorals)](#pectoralis-mayor-pectorals-)
 - [Serratus Anterior](#serratus-anterior-)
 - [Rectus Abdominus (Abs)](#rectus-abdominus-abs-)
@@ -8,7 +8,7 @@
 - [Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor](#infraspinatus-teres-minor-teres-mayor-rhomboid-mayor-)
 - [Links](#)
 
-# Full Upper Body [^](#Table-of-content)
+# Full Upper Body [^](#table-of-contents)
 <details>
 <summary>General Torso Anatomy References</summary>
 
@@ -42,7 +42,7 @@
 
 </details>
 
-# Pectoralis Mayor (Pectorals) [^](#Table-of-content)
+# Pectoralis Mayor (Pectorals) [^](#table-of-contents)
 
 ### Origins/ Insertions In Short
 |MUSCLE|Pectoralis Mayor
@@ -71,7 +71,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 <img src="https://i.imgur.com/K6Yx1Bw.png" width="800">
 </details>
 
-# Serratus Anterior [^](#Table-of-content)
+# Serratus Anterior [^](#table-of-contents)
 ### Origins/ Insertions
 |MUSCLE|Serratus Anterior
 |:-:|:-:
@@ -91,7 +91,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 <img src="https://i.imgur.com/RoZ0jMB.jpg" width="400">
 </details>
 
-# Rectus Abdominus (Abs) [^](#Table-of-content)
+# Rectus Abdominus (Abs) [^](#table-of-contents)
 
 ### Origins/ Insertions
 |MUSCLE|Rectus Abdominus
@@ -108,7 +108,7 @@ The `Pectoralis Mayor` is split into `3 parts`.
 </details>
 
 
-# Obliques [^](#Table-of-content)
+# Obliques [^](#table-of-contents)
 ### Info
 It's good to know about the **Internal Obliques**, they can however not be seen, because the **External Obliques** cover them. This is also why the **External Obliques** are often simply called **Obliques**.
 
@@ -129,7 +129,7 @@ The **External Obliques** almost fully cover the **Rectus Abdominus** (Abs), the
 
 
 
-# Trapezius [^](#Table-of-content)
+# Trapezius [^](#table-of-contents)
 
 ### Origins/ Insertions In Short
 |MUSCLE|Trapezius 
@@ -171,7 +171,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 
 </details>
 
-# Latisimus Dorsi (Lats) [^](#Table-of-content)
+# Latisimus Dorsi (Lats) [^](#table-of-contents)
 
 ### Origins/ Insertions
 |MUSCLE|Latisimus Dorsi
@@ -198,7 +198,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 </details>
 
 
-# Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#Table-of-content)
+# Infraspinatus, Teres Minor, Teres Mayor, Rhomboid Mayor [^](#table-of-contents)
 ### Origins/ Insertions
 |**MUSCLE**|**Infraspinatus**|**Teres Minor**|**Teres Mayor**|**Rhomboid Mayor**
 |:-:|:-:|:-:|:-:|:-:
@@ -225,7 +225,7 @@ The **Cervical Area** is a diamond shaped part of the Trapezius and the spine bo
 <img src="https://i.imgur.com/mAf9TYy.png" width="340">
 </details>
 
-# Links [^](#Table-of-content)
+# Links [^](#table-of-contents)
 - [Male - Muscles As Separate SubTools](https://www.youtube.com/watch?v=Wt9tlnoKihQ) (Lukas Kutschera)
 - [Male](https://www.youtube.com/watch?v=EpGfyF8BFus) (Julian Khor)
 - [Male - Speed](https://www.youtube.com/watch?v=69AC3O0_ob8)
