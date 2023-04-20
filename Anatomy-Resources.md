@@ -14,7 +14,7 @@ Kenhubs on site search isn't that good, so what I often like to do, is add kenhu
 # Anatomy Reference Art
 - [Artstation Marketplace](https://www.artstation.com/marketplace/game-dev/resources)
 
-# 3D Models To Study From
+# 3D Models to Study From
 
 # ⚠ Sort in
 - https://www.youtube.com/watch?v=21MEP9c9VZI
